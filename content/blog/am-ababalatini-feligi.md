@@ -4,6 +4,7 @@ path: /am/ababalatini-feligi
 date: '2018-01-29'
 type: post
 ---
+![](/images/dx-study.jpg)
 
 በቋንቋ ልምምድ ላይ የቋንቋ ተናጋሪን እንዴት ማግኘት እንደሚቻል?
 
