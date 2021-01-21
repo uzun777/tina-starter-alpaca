@@ -4,7 +4,6 @@ path: /am/ababalatini-feligi
 date: '2018-01-29'
 type: post
 ---
-![](/images/dx-study.jpg)
 
 በቋንቋ ልምምድ ላይ የቋንቋ ተናጋሪን እንዴት ማግኘት እንደሚቻል?
 
@@ -15,6 +14,8 @@ type: post
 ስለ ቋንቋ ልምምድስ ምን ለማለት ይቻላል? እኛ ሁሉም ሰዎች በራሳቸው የአፍ መፍቻ ቋንቋዎች እንዲግባቡ እና እርስ በእርስ እንዲረዳቸው ለምን አንድ ላይ እንዳልተባበር አሰብን.
 
 በዚህም ምክንያት የውጭ ቋንቋ ትምህርቶችን በመፍጠር የውጭ ቋንቋን ለሚያጠኑ ሰዎች ተስማሚ አስተማሪዎች እንዲያገኙ በመርዳት የአለማችን ትምህርታዊ መድረክን ለመፍጠር ሀሳብ ነበረን.
+
+![](/images/dx-study.jpg)
 
 <img class="aligncenter wp-image-78 size-full" src="../images/platform/social-network.jpg" alt="ለቋንቋ ልምምድ የቤተኛ ተናጋሪዎችን ፈልግ" width="628" height="383" />
 
