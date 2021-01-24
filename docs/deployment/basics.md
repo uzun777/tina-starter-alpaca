@@ -25,7 +25,7 @@ We recommend creating a new Next.js app using `create-next-app`, which sets up 
     # or
     yarn create next-app
 
-After the installation is complete, follow the instructions to start the development server. Try editing `pages/index.js` and see the result on your browser.
+After the installation is complete, follow the instructions to start the development server. Try editing `pages/Header.jsx` and see the result on your browser.
 
 ### Manual Setup
 
@@ -33,4 +33,4 @@ Install `next`, `react` and `react-dom` in your project:
 
     npm install next react react-dom
 
-Populate `./pages/index.js` with the following contents:
+Populate `./pages/Header.jsx` with the following contents:

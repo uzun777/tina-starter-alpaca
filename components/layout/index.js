@@ -1,10 +1,8 @@
 import { node, bool, any, string } from "prop-types"
 import { useGithubToolbarPlugins } from "react-tinacms-github"
 import { ThemeProvider } from "styled-components"
-
-import TopBar from "@components/topbar"
+import { TopBar } from "../Header/Header"
 import Footer from "@components/footer"
-
 import { LayoutStyled, LayoutBodyStyled } from "./styles"
 
 const Layout = ({ children, showDocsSearcher, splitView, theme, searchIndex, searchText }) => {

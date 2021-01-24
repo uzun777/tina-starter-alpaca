@@ -65,6 +65,7 @@ const BlogPage = (props) => {
 
               <InlineWysiwyg
                 name="markdownBody"
+                format={"markdown"}
                 sticky="62px"
                 imageProps={{
                   uploadDir: () => "/images/",
@@ -74,12 +75,18 @@ const BlogPage = (props) => {
                   },
                 }}
               >
-                <MarkdownWrapper source={data.markdownBody} />
+                <div
+                  dangerouslySetInnerHTML={{
+                    __html: data.markdownBody,
+                  }}
+                />
+                {/*<MarkdownWrapper source={data.markdownBody} />*/}
               </InlineWysiwyg>
             </main>
           </RichText>
           <PostFeedback />
         </DocWrapper>
+        asd
       </InlineForm>
     </Layout>
   )

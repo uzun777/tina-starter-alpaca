@@ -1,25 +1,20 @@
+import styled from "styled-components"
 import Head from "@components/head"
 import Layout from "@components/layout"
-import Container from "@components/container"
 import { getBlogPosts } from "@utils"
 import { useGlobalStyleForm } from "@hooks"
 import getGlobalStaticProps from "../../utils/getGlobalStaticProps"
 import useCreateBlogPage from "../../hooks/useCreateBlogPage"
-import BlogCard from "@components/blogCard"
+import { BlogCard } from "../../components/blogCard/BlogCard"
 
 const Blog = (props) => {
   useCreateBlogPage(props.posts)
   const [styleData] = useGlobalStyleForm(props.styleFile, props.preview)
   return (
-    <Layout
-      searchText="Search blog posts"
-      showDocsSearcher
-      searchIndex="tina-starter-alpaca-Blogs"
-      theme={styleData}
-    >
+    <Layout searchText="Search blog posts" showDocsSearcher searchIndex="tina-starter-alpaca-Blogs" theme={styleData}>
       <Head title="Blog" />
+      <h1>Blog</h1>
       <Container>
-        <h1>Blog</h1>
         {props.posts.map((post) => {
           return <BlogCard key={post.fileName} post={post} />
         })}
@@ -34,9 +29,7 @@ const Blog = (props) => {
 export const getStaticProps = async function ({ preview, previewData }) {
   try {
     const posts = await getBlogPosts(preview, previewData, "content/blog")
-    console.log("posts ", posts[93])
     const global = await getGlobalStaticProps(preview, previewData)
-    console.log("global ", global)
 
     if (preview) {
       return {
@@ -65,3 +58,8 @@ export const getStaticProps = async function ({ preview, previewData }) {
 }
 
 export default Blog
+
+const Container = styled.div`
+  display: flex;
+  flex-wrap: wrap;
+`
