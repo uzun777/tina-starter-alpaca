@@ -3,6 +3,8 @@ title: Kako pronaći izvorne govornike za jezičnu praksu?
 path: /hr/izvorne-govornike-za-jezicnu-praksu
 date: '2018-01-30'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Kako pronaći izvorne govornike za jezičnu praksu?

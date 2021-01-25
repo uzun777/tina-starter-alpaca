@@ -3,6 +3,8 @@ title: Как да намерите местни оратори за езико�
 path: /bg/namerite-mestni-oratori-za-ezikova-praktika
 date: '2018-01-30'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Как да намерите местни оратори за езикова практика?

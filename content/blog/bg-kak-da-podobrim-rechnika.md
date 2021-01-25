@@ -3,6 +3,8 @@ title: Как да подобрим речника? Най-добрите нач
 path: /bg/kak-da-podobrim-rechnika
 date: '2018-06-01'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Как да подобрим речника?
 Как да подобрим речника?

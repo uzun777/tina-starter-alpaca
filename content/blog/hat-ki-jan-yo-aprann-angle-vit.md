@@ -3,6 +3,8 @@ title: Ki jan yo aprann angle vit?
 path: /hat/ki-jan-yo-aprann-angle-vit
 date: '2018-02-06'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Ki jan yo aprann angle vit?

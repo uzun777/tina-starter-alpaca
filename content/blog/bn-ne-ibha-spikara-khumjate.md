@@ -3,6 +3,8 @@ title: কিভাবে ভাষা অনুশীলন জন্য স্
 path: /bn/ne-ibha-spikara-khumjate
 date: '2018-01-30'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 কিভাবে ভাষা অনুশীলন জন্য স্থানীয় ভাষাভাষী পেতে?

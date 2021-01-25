@@ -3,6 +3,8 @@ title: Paano mabilis na matuto ng Ingles?
 path: /fil/paano-mabilis-na-matuto-ng-ingles
 date: '2018-02-05'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Paano mabilis na matuto ng Ingles?

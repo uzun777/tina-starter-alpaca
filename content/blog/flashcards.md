@@ -3,6 +3,8 @@ title: Flashcards - language cards for learning a foreign language
 path: /flashcards
 date: '2018-05-29'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Flashcards
 Flashcards for learning a foreign language are the simplest and most common method of self-study. One side holds a difficult word, and the other side has its meaning or translation.

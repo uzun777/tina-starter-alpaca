@@ -3,6 +3,8 @@ title: Kuidas sõnavara parandada? Parimad viisid uute sõnade meelde jätmiseks
 path: /et/kuidas-sonavara-parandada
 date: '2018-06-02'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Kuidas sõnavara parandada?
 Kuidas sõnavara parandada?

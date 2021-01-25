@@ -3,6 +3,8 @@ title: Yadda zaka iya koyon harshen Turanci azumi?
 path: /hau/yadda-zaka-iya-koyon-harshen-turanci-azumi
 date: '2018-02-06'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Yadda zaka iya koyon harshen Turanci azumi?

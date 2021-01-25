@@ -3,6 +3,8 @@ title: Katunan harshe domin koyon harshe na waje
 path: /hau/katunan-harshe
 date: '2018-06-08'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Katunan harshe don koyon harshe na waje shi ne hanya mafi sauƙi kuma mafi yawan al'amuran nazarin kansu. Daya gefen yana riƙe da kalma mai wuya, kuma ɗayan yana da ma'anarsa ko fassararsa.

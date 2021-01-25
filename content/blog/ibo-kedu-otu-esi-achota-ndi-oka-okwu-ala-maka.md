@@ -3,6 +3,8 @@ title: Kedu otu esi achọta ndị ọkà okwu ala maka omume asụsụ?
 path: /ibo/kedu-otu-esi-achota-ndi-oka-okwu-ala-maka
 date: '2018-01-31'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Kedu otu esi achọta ndị ọkà okwu ala maka omume asụsụ?

@@ -3,6 +3,8 @@ title: Πώς να βρείτε μητρική γλώσσα για πρακτι�
 path: /el/vreite-mitriki-glossa
 date: '2018-01-31'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Πώς να βρείτε μητρική γλώσσα για πρακτική γλώσσα;

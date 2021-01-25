@@ -3,6 +3,8 @@ title: अंग्रेजी कैसे सीखें?
 path: /hi/angrejee-kaise-seekhen
 date: '2018-02-06'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 अंग्रेजी कैसे सीखें?

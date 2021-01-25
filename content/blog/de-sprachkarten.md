@@ -3,6 +3,8 @@ title: Sprachkarten zum Erlernen einer Fremdsprache
 path: /de/sprachkarten
 date: '2018-06-05'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Sprachkarten zum Erlernen einer Fremdsprache sind die einfachste und gängigste Methode des Selbststudiums. Eine Seite hält ein schwieriges Wort, und die andere Seite hat ihre Bedeutung oder Übersetzung.

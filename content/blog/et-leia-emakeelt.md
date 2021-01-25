@@ -3,6 +3,8 @@ title: Kuidas leida keelt emakeelena?
 path: /et/leia-emakeelt
 date: '2018-01-31'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Kuidas leida keelt emakeelena?

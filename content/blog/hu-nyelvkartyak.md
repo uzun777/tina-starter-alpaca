@@ -3,6 +3,8 @@ title: Nyelvkártyák idegen nyelv tanulásához
 path: /hu/nyelvkartyak
 date: '2018-06-08'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Nyelvkártyák az idegen nyelv elsajátítása az öntanulás legegyszerűbb és legelterjedtebb módja. Az egyik oldalon nehéz szó van, a másik oldal pedig jelentését vagy fordítását jelenti.

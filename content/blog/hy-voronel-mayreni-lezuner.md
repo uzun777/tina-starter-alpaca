@@ -3,6 +3,8 @@ title: Ինչպես գտնել լեզվի պրակտիկայում մայրեն�
 path: /hy/voronel-mayreni-lezuner
 date: '2018-01-30'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Ինչպես գտնել լեզվի պրակտիկայում մայրենի լեզուների համար:

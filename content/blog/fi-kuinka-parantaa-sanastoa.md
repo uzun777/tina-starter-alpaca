@@ -3,6 +3,8 @@ title: Kuinka parantaa sanastoa? Paras tapa tallentaa uusia sanoja
 path: /fi/kuinka-parantaa-sanastoa
 date: '2018-06-02'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Kuinka parantaa sanastoa?
 Kuinka parantaa sanastoa?

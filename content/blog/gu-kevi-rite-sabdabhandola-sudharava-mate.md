@@ -3,6 +3,8 @@ title: શબ્દભંડોળ સુધારવા માટે કેવ�
 path: /gu/kevi-rite-sabdabhandola-sudharava-mate
 date: '2018-06-07'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## શબ્દભંડોળ સુધારવા માટે કેવી રીતે?
 શબ્દભંડોળ સુધારવા માટે કેવી રીતે?

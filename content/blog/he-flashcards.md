@@ -3,6 +3,8 @@ title: כרטיסיות - כרטיסי שפה ללימוד שפה זרה
 path: /he/flashcards
 date: '2018-06-08'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 כרטיסיות ללימוד שפה זרה הן השיטה הפשוטה והנפוצה ביותר ללימוד עצמי. לצד אחד יש מילה קשה, ולצד השני יש משמעות או תרגום.

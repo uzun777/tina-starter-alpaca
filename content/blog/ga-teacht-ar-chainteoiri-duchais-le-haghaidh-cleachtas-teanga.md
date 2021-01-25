@@ -3,6 +3,8 @@ title: Conas teacht ar chainteoirí dúchais le haghaidh cleachtas teanga?
 path: /ga/teacht-ar-chainteoiri-duchais-le-haghaidh-cleachtas-teanga
 date: '2018-01-31'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Conas teacht ar chainteoirí dúchais le haghaidh cleachtas teanga?

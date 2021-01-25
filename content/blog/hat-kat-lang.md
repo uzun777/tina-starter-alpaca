@@ -3,6 +3,8 @@ title: Kat - kat lang pou aprann yon lang etranje
 path: /hat/kat-lang
 date: '2018-06-08'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Kat lang pou aprann yon lang etranje se metòd ki pi senp e ki pi komen pou etidye tèt yo. Yon bò kenbe yon mo difisil, ak lòt bò a gen siyifikasyon li oswa tradiksyon.

@@ -3,6 +3,8 @@ title: چگونه برای پیدا کردن زبان مادری برای تمر
 path: /fa/find-native-speaker
 date: '2018-02-02'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 چگونه برای پیدا کردن زبان مادری برای تمرین زبان؟

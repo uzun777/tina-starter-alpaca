@@ -3,6 +3,8 @@ title: Wie lernt man schnell Englisch?
 path: /de/wie-lernt-man-schnell-englisch
 date: '2018-02-06'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Wie lernt man schnell Englisch?

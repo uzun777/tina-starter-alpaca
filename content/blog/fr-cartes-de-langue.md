@@ -3,6 +3,8 @@ title: Cartes de langue pour apprendre une langue étrangère. La meilleure mét
 path: /fr/cartes-de-langue
 date: '2018-06-02'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Les cartes de langue pour l'apprentissage d'une langue étrangère sont la méthode d'auto-apprentissage la plus simple et la plus courante. Un côté tient un mot difficile, et l'autre a sa signification ou sa traduction.

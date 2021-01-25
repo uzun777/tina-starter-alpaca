@@ -3,6 +3,8 @@ title: የውጭ ቋንቋ ለመማር የቋንቋ ካርዶች - የካርድ
 path: /am/pikaridi-karidochi
 date: '2018-05-29'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 የውጭ ቋንቋ ለመማር የቋንቋ ካርዶች በጣም ቀላል እና ብዙውን ጊዜ በራስ የመማሪያ ዘዴ ነው. በካርታው ውስጥ በአንዱ በኩል በቀላሉ የማይታለፍ ቃል ይፃፋል, በሌላኛው ደግሞ የዚህ ቃል ወይም ትርጉም ትርጉሙ ነው.

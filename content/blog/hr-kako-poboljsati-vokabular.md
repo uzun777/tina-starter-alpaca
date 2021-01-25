@@ -3,6 +3,8 @@ title: Kako poboljšati vokabular? Najbolji načini pamćenja novih riječi
 path: /hr/kako-poboljsati-vokabular
 date: '2018-06-01'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Kako poboljšati vokabular?
 Kako poboljšati vokabular?

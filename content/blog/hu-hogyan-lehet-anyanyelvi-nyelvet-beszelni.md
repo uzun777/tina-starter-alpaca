@@ -3,6 +3,8 @@ title: Hogyan lehet anyanyelvi nyelvet beszélni a nyelvtanuláshoz?
 path: /hu/hogyan-lehet-anyanyelvi-nyelvet-beszelni
 date: '2018-01-25'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Hogyan lehet anyanyelvi nyelvet beszélni a nyelvtanuláshoz?

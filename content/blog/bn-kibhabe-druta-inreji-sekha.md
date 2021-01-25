@@ -3,6 +3,8 @@ title: কিভাবে দ্রুত ইংরেজি শেখা?
 path: /bn/kibhabe-druta-inreji-sekha
 date: '2018-02-05'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 কিভাবে দ্রুত ইংরেজি শেখা?

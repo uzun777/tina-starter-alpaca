@@ -3,6 +3,8 @@ title: Γλώσσες για την εκμάθηση μιας ξένης γλώ�
 path: /el/glossikes-kartes
 date: '2018-06-07'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Οι κάρτες γλώσσας για την εκμάθηση μιας ξένης γλώσσας είναι η απλούστερη και συνηθέστερη μέθοδος αυτοδιδασκαλίας. Η μία πλευρά έχει μια δύσκολη λέξη και η άλλη πλευρά έχει το νόημα ή τη μετάφραση της.

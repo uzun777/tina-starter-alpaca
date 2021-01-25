@@ -3,6 +3,8 @@ title: Flashkaardid - keelekaardid võõrkeele õppimiseks
 path: /et/flashkaardid
 date: '2018-06-02'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Võõrkeele õppimiseks mõeldud flashkaardid on kõige lihtsam ja kõige levinum eneseõppe meetod. Üks külg on raske sõna ja teisel pool on tähendus või tõlge.

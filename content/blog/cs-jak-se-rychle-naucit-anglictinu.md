@@ -3,6 +3,8 @@ title: Jak se rychle naučit angličtinu?
 path: /cs/jak-se-rychle-naucit-anglictinu
 date: '2018-02-05'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Jak se rychle naučit angličtinu?

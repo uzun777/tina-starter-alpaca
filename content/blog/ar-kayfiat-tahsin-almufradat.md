@@ -3,6 +3,8 @@ title: كيفية تحسين المفردات؟ أفضل الطرق لحفظ ك�
 path: /ar/kayfiat-tahsin-almufradat
 date: '2018-05-30'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 كيفية تحسين المفردات؟

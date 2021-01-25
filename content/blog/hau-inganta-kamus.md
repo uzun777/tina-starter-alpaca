@@ -3,6 +3,8 @@ title: Yadda za a inganta ƙamus? Hanya mafi kyau don haddace sababbin kalmomi
 path: /hau/inganta-kamus
 date: '2018-06-08'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Yadda za a inganta ƙamus?
 Yadda za a inganta ƙamus?

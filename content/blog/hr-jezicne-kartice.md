@@ -3,6 +3,8 @@ title: Jezične kartice za učenje stranog jezika. Najbolji način pamćenja rij
 path: /hr/jezicne-kartice
 date: '2018-06-01'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Jezične kartice za učenje stranog jezika najjednostavniji su i najčešći način samoprovjere. Jedna strana ima tešku riječ, a druga ima svoje značenje ili prijevod.

@@ -3,6 +3,8 @@ title: Tarjetas de vocabulario - tarjetas de idiomas para aprender un idioma ext
 path: /es/tarjetas-de-vocabulario
 date: '2018-06-22'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Las tarjetas de vocabulario para aprender un idioma extranjero son el método de autoaprendizaje más simple y común. Un lado contiene una palabra difícil, y el otro lado tiene su significado o traducción.

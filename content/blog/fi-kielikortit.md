@@ -3,6 +3,8 @@ title: Kielikortit vieraan kielen oppimiseen. Paras tapa kirjoittaa sanoja
 path: /fi/kielikortit
 date: '2018-06-02'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Kielikortit vieraan kielen oppimiseen ovat yksinkertaisin ja tavallisin itsetestaus. Toisella puolella on vaikea sana, toisella puolella on sen merkitys tai käännös.

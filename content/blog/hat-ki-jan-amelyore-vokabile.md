@@ -3,6 +3,8 @@ title: Ki jan amelyore vokabilè? Pi bon fason yo memorize mo nouvo
 path: /hat/ki-jan-amelyore-vokabile
 date: '2018-06-08'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Ki jan amelyore vokabilè?
 Ki jan amelyore vokabilè?

@@ -6,6 +6,7 @@ export const BlogCard = ({ post }) => {
     <Container>
       {/*<StyledAnchor>*/}
       <BlogCardStyled>
+        <img src={post.data.frontmatter.preview} />
         <StyledLink href={`blog/${post.fileName}`}>
           <Title>{post.data.frontmatter.title}</Title>
         </StyledLink>

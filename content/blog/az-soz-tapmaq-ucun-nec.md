@@ -3,6 +3,8 @@ title: Söz tapmaq üçün necə? Yeni sözləri yadda saxlamaq üçün ən yax�
 path: /az/soz-tapmaq-ucun-nec
 date: '2018-05-31'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Söz tapmaq üçün necə?
 Söz tapmaq üçün necə?

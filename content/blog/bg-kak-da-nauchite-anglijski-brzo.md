@@ -3,6 +3,8 @@ title: Как да научите английски бързо?
 path: /bg/kak-da-nauchite-anglijski-brzo
 date: '2018-02-05'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Как да научите английски бързо?

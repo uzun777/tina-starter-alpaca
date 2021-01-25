@@ -3,6 +3,8 @@ title: Paano makahanap ng katutubong nagsasalita para sa kasanayan sa wika?
 path: /fil/makahanap-ng-katutubong-nagsasalita-para-sa-kasanayan-sa-wika
 date: '2018-01-31'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Paano makahanap ng katutubong nagsasalita para sa kasanayan sa wika?

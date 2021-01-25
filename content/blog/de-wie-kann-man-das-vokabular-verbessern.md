@@ -5,6 +5,8 @@ title: >-
 path: /de/wie-kann-man-das-vokabular-verbessern
 date: '2018-06-04'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Wie kann man das Vokabular verbessern?
 Wie kann man das Vokabular verbessern?

@@ -3,6 +3,8 @@ title: Πώς να μάθουν αγγλικά γρήγορα;
 path: /el/pos-na-mathoun-anglika-grigora
 date: '2018-02-06'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Πώς να μάθουν αγγλικά γρήγορα;

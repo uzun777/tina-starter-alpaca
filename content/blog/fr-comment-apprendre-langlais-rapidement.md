@@ -3,6 +3,8 @@ title: Comment apprendre l'anglais rapidement?
 path: /fr/comment-apprendre-langlais-rapidement
 date: '2018-02-06'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Comment apprendre l'anglais rapidement?

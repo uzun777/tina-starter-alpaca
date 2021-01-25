@@ -3,6 +3,8 @@ title: Езикови карти за изучаване на чужд език.
 path: /bg/ezikovi-karti
 date: '2018-06-01'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Езикови карти за изучаване на чужд език са най-простият и най-често използван метод за самообучение. Едната страна държи трудна дума, а другата страна има своето значение или превод.

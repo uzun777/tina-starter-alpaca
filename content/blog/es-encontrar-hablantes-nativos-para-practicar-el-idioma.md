@@ -3,6 +3,8 @@ title: ¿Cómo encontrar hablantes nativos para practicar el idioma?
 path: /es/encontrar-hablantes-nativos-para-practicar-el-idioma
 date: '2018-02-02'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 ¿Cómo encontrar hablantes nativos para practicar el idioma?

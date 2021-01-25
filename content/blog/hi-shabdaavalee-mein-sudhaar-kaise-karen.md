@@ -3,6 +3,8 @@ title: शब्दावली में सुधार कैसे करे
 path: /hi/shabdaavalee-mein-sudhaar-kaise-karen
 date: '2018-06-08'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## शब्दावली में सुधार कैसे करें?
 शब्दावली में सुधार कैसे करें?

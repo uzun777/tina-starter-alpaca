@@ -3,6 +3,8 @@ title: כיצד לשפר את אוצר המילים? הדרכים הטובות �
 path: /he/improve-vocabulary
 date: '2018-06-08'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## כיצד לשפר את אוצר המילים?
 כיצד לשפר את אוצר המילים?

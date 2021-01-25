@@ -3,6 +3,8 @@ title: Conas stór focal a fheabhsú? Na bealaí is fearr chun focail nua a ghla
 path: /ga/conas-stor-focal-a-fheabhsu
 date: '2018-06-12'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Conas stór focal a fheabhsú?
 Conas stór focal a fheabhsú?

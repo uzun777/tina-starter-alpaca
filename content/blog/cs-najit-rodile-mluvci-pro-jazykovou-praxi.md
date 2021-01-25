@@ -3,6 +3,8 @@ title: Jak najít rodilé mluvčí pro jazykovou praxi?
 path: /cs/najit-rodile-mluvci-pro-jazykovou-praxi
 date: '2018-01-30'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Jak najít rodilé mluvčí pro jazykovou praxi?

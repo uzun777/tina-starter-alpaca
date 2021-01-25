@@ -3,6 +3,8 @@ title: ቃላትን እንዴት ማሻሻል ይቻላል? አዲስ ቃላት�
 path: /am/kalatini-inideti-mashashali-yichalali
 date: '2018-05-29'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 ቃላትን እንዴት ማሻሻል ይቻላል?

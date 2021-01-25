@@ -3,6 +3,8 @@ title: How to find native speakers for language practice?
 path: /find-native-speakers
 date: '2018-01-25'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 How to find native speakers for language practice?

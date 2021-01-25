@@ -3,6 +3,8 @@ title: Hogyan tanulhatok angolul gyorsan?
 path: /hu/hogyan-tanulhatok-angolul-gyorsan
 date: '2018-02-06'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Hogyan tanulhatok angolul gyorsan?

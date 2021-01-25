@@ -3,6 +3,8 @@ title: Comment trouver des locuteurs natifs pour la pratique des langues?
 path: /fr/trouver-des-locuteurs-natifs-pour-la-pratique-des-langues
 date: '2018-01-31'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Comment trouver des locuteurs natifs pour la pratique des langues?

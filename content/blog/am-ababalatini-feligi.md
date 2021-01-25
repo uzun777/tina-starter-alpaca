@@ -3,6 +3,8 @@ title: በቋንቋ ልምምድ ላይ የቋንቋ ተናጋሪን እንዴ�
 path: /am/ababalatini-feligi
 date: '2018-01-29'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 በቋንቋ ልምምድ ላይ የቋንቋ ተናጋሪን እንዴት ማግኘት እንደሚቻል?
 

@@ -3,6 +3,8 @@ title: İngilis dili necə tez öyrənməli?
 path: /az/ingilis-dili-nec-tez-oyr-nm-li
 date: '2018-02-05'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 İngilis dili necə tez öyrənməli?

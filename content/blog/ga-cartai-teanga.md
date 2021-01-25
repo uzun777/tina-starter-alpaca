@@ -3,6 +3,8 @@ title: Cártaí teanga - cártaí teanga le haghaidh teanga iasachta a fhoghlaim
 path: /ga/cartai-teanga
 date: '2018-06-12'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Cártaí teanga - is é an teanga simplí is coitianta féin-staidéar a fhoghlaim mar theanga iasachta. Tá focal deacair ag an taobh amháin, agus tá brí nó aistriúchán ag an taobh eile.

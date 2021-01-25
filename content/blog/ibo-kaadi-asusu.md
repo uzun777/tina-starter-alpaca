@@ -3,6 +3,8 @@ title: Kaadị asụsụ maka ịmụ asụsụ mba ọzọ
 path: /ibo/kaadi-asusu
 date: '2018-06-11'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Kaadị asụsụ iji mụta asụsụ mba ọzọ bụ ụzọ kachasị mfe na ụzọ kachasị esi achọpụta onwe onye. Otu akụkụ nwere okwu siri ike, akụkụ nke ọzọ nwekwara ihe ọ pụtara ma ọ bụ nsụgharị ya.

@@ -3,6 +3,8 @@ title: Yaya za a samu masu magana da harshe don yin amfani da harshe?
 path: /hau/masu-magana-da-harshe-don-yin-amfani-da-harshe
 date: '2018-01-31'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Yaya za a samu masu magana da harshe don yin amfani da harshe?

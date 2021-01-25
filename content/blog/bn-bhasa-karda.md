@@ -3,6 +3,8 @@ title: একটি বিদেশী ভাষা শেখার জন্য
 path: /bn/bhasa-karda
 date: '2018-05-31'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 একটি বিদেশী ভাষা শেখার জন্য ভাষা কার্ডগুলি আত্ম-অধ্যয়নের সবচেয়ে সহজ এবং সবচেয়ে সাধারণ পদ্ধতি। একপাশে একটি কঠিন শব্দ ঝুলিতে, এবং অন্য দিকে এর অর্থ বা অনুবাদ আছে।

@@ -3,6 +3,8 @@ title: Kedu ka esi emezi okwu? Ụzọ kachasị mma isi na-eburu okwu ọhụr�
 path: /ibo/kedu-ka-esi-emezi-okwu
 date: '2018-06-11'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Kedu ka esi emezi okwu?
 Kedu ka esi emezi okwu?

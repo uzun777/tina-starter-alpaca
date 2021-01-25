@@ -3,6 +3,8 @@ title: مرتبا - کارت های زبان برای یادگیری یک زبا
 path: /fa/flash-cards
 date: '2018-06-21'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 فلش کارت ها برای یادگیری یک زبان خارجی ساده ترین و رایج ترین روش خودآموزی هستند. یک طرف دارای یک کلمه دشوار است و طرف دیگر دارای معنی و یا ترجمه است.

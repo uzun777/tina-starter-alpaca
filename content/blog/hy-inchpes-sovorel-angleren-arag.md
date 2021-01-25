@@ -3,6 +3,8 @@ title: Ինչպես սովորել անգլերեն արագ?
 path: /hy/inchpes-sovorel-angleren-arag
 date: '2018-02-05'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Ինչպես սովորել անգլերեն արագ?

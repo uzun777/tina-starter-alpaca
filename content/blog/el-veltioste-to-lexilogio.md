@@ -3,6 +3,8 @@ title: Πώς να βελτιώσετε το λεξιλόγιο; Οι καλύτ
 path: /el/veltioste-to-lexilogio
 date: '2018-06-07'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Πώς να βελτιώσετε το λεξιλόγιο;
 Πώς να βελτιώσετε το λεξιλόγιο;

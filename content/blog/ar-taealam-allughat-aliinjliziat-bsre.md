@@ -3,6 +3,8 @@ title: كيفية تعلم اللغة الإنجليزية بسرعة؟
 path: /ar/taealam-allughat-aliinjliziat-bsre
 date: '2018-01-26'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 كيفية تعلم اللغة الإنجليزية بسرعة؟

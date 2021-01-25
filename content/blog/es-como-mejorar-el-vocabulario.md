@@ -3,6 +3,8 @@ title: ¿Cómo mejorar el vocabulario? Las mejores formas de memorizar nuevas pa
 path: /es/como-mejorar-el-vocabulario
 date: '2018-06-22'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## ¿Cómo mejorar el vocabulario?
 ¿Cómo mejorar el vocabulario?

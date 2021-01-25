@@ -3,6 +3,8 @@ title: Kako brzo učiti engleski?
 path: /hr/kako-brzo-uciti-engleski
 date: '2018-02-05'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Kako brzo učiti engleski?

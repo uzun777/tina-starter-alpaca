@@ -3,6 +3,8 @@ title: ઇંગ્લીશ ઝડપી કેવી રીતે શીખવ
 path: /gu/inglisa-jha-api-kevi-rite-sikhavum
 date: '2018-02-06'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 ઇંગ્લીશ ઝડપી કેવી રીતે શીખવું?

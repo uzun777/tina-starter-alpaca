@@ -3,6 +3,8 @@ title: Dil təcrübə üçün anadil danışmaq necə?
 path: /az/dil-t-crub-ucun-anadil-danismaq-nec
 date: '2018-01-30'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Dil təcrübə üçün anadil danışmaq necə?

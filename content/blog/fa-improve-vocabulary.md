@@ -3,6 +3,8 @@ title: چگونه برای بهبود واژگان بهترین راه برای 
 path: /fa/improve-vocabulary
 date: '2018-06-21'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## چگونه برای بهبود واژگان
 چگونه برای بهبود واژگان

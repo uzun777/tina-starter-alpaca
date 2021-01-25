@@ -3,6 +3,8 @@ title: چگونه سریع انگلیسی را یاد بگیریم؟
 path: /fa/learn-english-fast
 date: '2018-02-06'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 چگونه سریع انگلیسی را یاد بگیریم؟

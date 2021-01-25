@@ -3,6 +3,8 @@ title: Kuinka oppia englanti nopeasti?
 path: /fi/kuinka-oppia-englanti-nopeasti
 date: '2018-02-05'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Kuinka oppia englanti nopeasti?

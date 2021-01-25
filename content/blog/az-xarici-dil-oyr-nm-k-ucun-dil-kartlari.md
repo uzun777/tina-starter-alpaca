@@ -3,6 +3,8 @@ title: Xarici dil öyrənmək üçün dil kartları. Sözləri yadda saxlayan ə
 path: /az/xarici-dil-oyr-nm-k-ucun-dil-kartlari
 date: '2018-05-31'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Xarici dil öyrənmək üçün dil kartları özünü araşdırmanın ən sadə və ən ümumi üsuludur. Bir tərəf çətin bir söz tutur, digər tərəf isə məna və tərcüməyə malikdir.

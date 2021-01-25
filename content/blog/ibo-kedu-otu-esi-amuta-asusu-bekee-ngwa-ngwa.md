@@ -3,6 +3,8 @@ title: Kedu otu esi amụta asụsụ Bekee ngwa ngwa?
 path: /ibo/kedu-otu-esi-amuta-asusu-bekee-ngwa-ngwa
 date: '2018-02-06'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Kedu otu esi amụta asụsụ Bekee ngwa ngwa?

@@ -3,6 +3,8 @@ title: কিভাবে শব্দভান্ডার উন্নত? ন
 path: /bn/sabdabhandara-unnata-kibhabe
 date: '2018-05-31'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## কিভাবে শব্দভান্ডার উন্নত?
 কিভাবে শব্দভান্ডার উন্নত?

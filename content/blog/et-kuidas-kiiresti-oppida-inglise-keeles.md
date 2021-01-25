@@ -3,6 +3,8 @@ title: Kuidas kiiresti õppida inglise keeles?
 path: /et/kuidas-kiiresti-oppida-inglise-keeles
 date: '2018-02-05'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Kuidas kiiresti õppida inglise keeles?

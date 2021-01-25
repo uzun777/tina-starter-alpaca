@@ -3,6 +3,8 @@ title: Ki jan yo jwenn moun ki pale natif natal pou pratik lang?
 path: /hat/jwenn-moun-ki-pale-natif-natal-pou-pratik-lang
 date: '2018-01-31'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Ki jan yo jwenn moun ki pale natif natal pou pratik lang?

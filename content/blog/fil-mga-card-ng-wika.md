@@ -3,6 +3,8 @@ title: Mga card ng wika para sa pag-aaral ng wikang banyaga. Ang pinakamahusay n
 path: /fil/mga-card-ng-wika
 date: '2018-06-02'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Ang mga card ng wika para sa pag-aaral ng wikang banyaga ay ang pinakasimpleng at pinakakaraniwang pamamaraan ng pag-aaral sa sarili. Ang isang panig ay mayroong isang mahirap na salita, at ang iba pang panig ay may kahulugan o pagsasalin nito.

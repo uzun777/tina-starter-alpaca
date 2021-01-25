@@ -3,6 +3,8 @@ title: البطاقات التعليمية - بطاقات اللغة لتعلم 
 path: /ar/albitaqat-altaelimia
 date: '2018-05-30'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 البطاقات التعليمية لتعلم لغة أجنبية هي أبسط الطرق وأكثرها شيوعا للدراسة الذاتية. يحمل أحد الطرفين كلمة صعبة ، والجانب الآخر له معناها أو ترجمتها.

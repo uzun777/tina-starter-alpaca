@@ -3,6 +3,8 @@ title: የእንግሊዝኛ ቋንቋን በፍጥነት እንዴት ይማሩ
 path: /am/inigilizinya-befitineti-yimaru
 date: '2018-01-26'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 የእንግሊዝኛ ቋንቋን በፍጥነት እንዴት ይማሩ?

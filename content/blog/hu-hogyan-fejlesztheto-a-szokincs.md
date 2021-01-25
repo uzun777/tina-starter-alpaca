@@ -3,6 +3,8 @@ title: Hogyan fejleszthető a szókincs? A legjobb módja az új szavak memoriz�
 path: /hu/hogyan-fejlesztheto-a-szokincs
 date: '2018-06-08'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Hogyan fejleszthető a szókincs?
 Hogyan fejleszthető a szókincs?

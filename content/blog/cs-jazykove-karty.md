@@ -3,6 +3,8 @@ title: Jazykové karty pro výuku cizího jazyka. Nejlepší způsob ukládání
 path: /cs/jazykove-karty
 date: '2018-06-01'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Jazykové karty pro výuku cizího jazyka jsou nejjednodušší a nejběžnější metodou samostudia. Jedna strana má obtížné slovo a druhá strana má svůj význam nebo překlad.

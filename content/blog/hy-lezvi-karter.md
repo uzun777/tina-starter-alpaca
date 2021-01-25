@@ -3,6 +3,8 @@ title: Լեզվի քարտեր օտար լեզու սովորելու համար
 path: /hy/lezvi-karter
 date: '2018-05-30'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Լեզվի քարտերը օտար լեզու սովորելու համար ինքնաստեղծության պարզագույն եւ ամենատարածված մեթոդն են: Մի կողմը բարդ բառ է, մյուս կողմը ունի իր իմաստը կամ թարգմանությունը:

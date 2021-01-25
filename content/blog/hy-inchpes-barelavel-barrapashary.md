@@ -3,6 +3,8 @@ title: Ինչպես բարելավել բառապաշարը - Նոր բառեր 
 path: /hy/inchpes-barelavel-barrapashary
 date: '2018-05-30'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Ինչպես բարելավել բառապաշարը:

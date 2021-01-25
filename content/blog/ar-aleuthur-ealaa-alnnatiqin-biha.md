@@ -3,6 +3,8 @@ title: كيفية العثور على الناطقين بها لممارسة ا�
 path: /ar/aleuthur-ealaa-alnnatiqin-biha
 date: '2018-01-30'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 كيفية العثور على الناطقين بها لممارسة اللغة؟
