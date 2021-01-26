@@ -3,6 +3,8 @@ title: പദാവലി എങ്ങനെ മെച്ചപ്പെടു�
 path: /ml/padavali-ennane-meccappetuttam
 date: '2018-06-14'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## പദാവലി എങ്ങനെ മെച്ചപ്പെടുത്താം?
 പദാവലി എങ്ങനെ മെച്ചപ്പെടുത്താം?

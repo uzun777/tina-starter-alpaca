@@ -3,6 +3,8 @@ title: Kartat e gjuhës për të mësuar një gjuhë të huaj - kartela flash
 path: /sq/kartat-e-gjuhes
 date: '2018-05-29'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Kartat e gjuhës
 Kartat e gjuhës për të mësuar një gjuhë të huaj janë metoda më e thjeshtë dhe më e zakonshme e vetë studimit. Në njërën anë të kartës shkruhet një fjalë e memorizuar në vështirësi dhe në anën tjetër kuptimi i kësaj fjale ose përkthimi.

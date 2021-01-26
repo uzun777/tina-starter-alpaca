@@ -3,6 +3,8 @@ title: Hoe de woordenschat verbeteren? De beste manier om nieuwe woorden te onth
 path: /nl/hoe-de-woordenschat-verbeteren
 date: '2018-06-02'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Hoe de woordenschat verbeteren?
 Hoe de woordenschat verbeteren?

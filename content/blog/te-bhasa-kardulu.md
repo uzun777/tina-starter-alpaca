@@ -3,6 +3,8 @@ title: ఒక విదేశీ భాష నేర్చుకోవడం క
 path: /te/bhasa-kardulu
 date: '2018-06-26'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 భాషా కార్డులు - ఒక విదేశీ భాష నేర్చుకోవడం స్వీయ-అధ్యయనం యొక్క సరళమైన మరియు అత్యంత సాధారణ పద్ధతి. ఒక వైపు ఒక కష్టం పదం కలిగి, మరియు ఇతర వైపు దాని అర్థం లేదా అనువాదం ఉంది.

@@ -3,6 +3,8 @@ title: विदेशी भाषा सिक्ने भाषा भाष
 path: /ne/bhasa-kardaharu
 date: '2018-06-21'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 विदेशी भाषाहरू सिक्न भाषा कार्डहरू स्वयं-अध्ययनको सरल र सबैभन्दा साधारण विधि हो। एक पक्षले कठिन शब्द राख्दछ, र अर्को पक्ष यसको अर्थ वा अनुवाद छ।

@@ -3,6 +3,8 @@ title: Kumaha carana diajar basa Inggris gancang?
 path: /su/kumaha-carana-diajar-basa-inggris-gancang
 date: '2018-02-07'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Kumaha carana diajar basa Inggris gancang?

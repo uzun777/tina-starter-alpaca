@@ -3,6 +3,8 @@ title: الفاظ کو بہتر بنانا نئے الفاظ کو حفظ کرن�
 path: /ur/improve-vocabulary
 date: '2018-07-02'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## الفاظ کو بہتر بنانا
 الفاظ کو بہتر بنانا

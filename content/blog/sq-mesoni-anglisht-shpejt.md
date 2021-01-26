@@ -3,6 +3,8 @@ title: Si të mësoni anglisht shpejt?
 path: /sq/mesoni-anglisht-shpejt
 date: '2018-01-25'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Si të mësoni anglisht shpejt?

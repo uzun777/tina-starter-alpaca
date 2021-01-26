@@ -3,6 +3,8 @@ title: Carane nemokake penutur asli kanggo latihan basa?
 path: /jv/nemokake-penutur-asli-kanggo-latihan-basa
 date: '2018-02-01'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Carane nemokake penutur asli kanggo latihan basa?

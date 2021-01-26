@@ -3,6 +3,8 @@ title: ਸ਼ਬਦਾਵਲੀ ਨੂੰ ਕਿਵੇਂ ਸੁਧਾਰਿਆ 
 path: /pa/sabadavali-nu-kivem-sudharia-jae
 date: '2018-06-21'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 ਸ਼ਬਦਾਵਲੀ ਨੂੰ ਕਿਵੇਂ ਸੁਧਾਰਿਆ ਜਾਏ?

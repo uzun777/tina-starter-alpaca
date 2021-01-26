@@ -3,6 +3,8 @@ title: Làm thế nào để tìm người bản ngữ để thực hành ngôn 
 path: /vi/nao-de-tim-nguoi-ban-ngu-de-thuc-hanh-ngon-ngu
 date: '2018-02-02'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Làm thế nào để tìm người bản ngữ để thực hành ngôn ngữ?

@@ -3,6 +3,8 @@ title: భాషా అభ్యాసం కోసం స్థానిక స
 path: /te/abhyasam-kosam-sthanika-spikarlanu-ela-kanugonali
 date: '2018-02-02'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 భాషా అభ్యాసం కోసం స్థానిక స్పీకర్లను ఎలా కనుగొనాలి?

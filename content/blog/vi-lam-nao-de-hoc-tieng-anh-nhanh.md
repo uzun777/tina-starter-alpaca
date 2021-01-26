@@ -3,6 +3,8 @@ title: Làm thế nào để học tiếng Anh nhanh?
 path: /vi/lam-nao-de-hoc-tieng-anh-nhanh
 date: '2018-02-07'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Làm thế nào để học tiếng Anh nhanh?

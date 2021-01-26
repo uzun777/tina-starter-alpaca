@@ -3,6 +3,8 @@ title: Како брзо научити енглески језик?
 path: /sr/kako-brzo-nauchiti-engleski-jezik
 date: '2018-02-06'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Како брзо научити енглески језик?

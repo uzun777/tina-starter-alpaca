@@ -3,6 +3,8 @@ title: Awọn kaadi ede fun kikọ ẹkọ ede ajeji
 path: /yor/awon-kaadi-ede
 date: '2018-07-02'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Awọn kaadi ede fun kikọ ẹkọ ede ajeji jẹ ọna ti o rọrun julọ ati ti o wọpọ julọ fun imọ-ara-ẹni. Ọkan ẹgbẹ jẹ ọrọ ti o nira, ati ẹgbẹ keji ni itumọ rẹ tabi itumọ.

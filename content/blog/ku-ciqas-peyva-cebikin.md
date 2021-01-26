@@ -3,6 +3,8 @@ title: Çiqas peyva çêbikin? Rêbazên baştirîn ku peyvên nû yên bîhnfir
 path: /ku/ciqas-peyva-cebikin
 date: '2018-06-13'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Çiqas peyva çêbikin?
 Çiqas peyva çêbikin?

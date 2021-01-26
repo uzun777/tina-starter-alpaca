@@ -3,6 +3,8 @@ title: Ahoana ny fomba hianatra haingana anglisy?
 path: /mg/ahoana-ny-fomba-hianatra-haingana-anglisy
 date: '2018-02-06'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Ahoana ny fomba hianatra haingana anglisy?

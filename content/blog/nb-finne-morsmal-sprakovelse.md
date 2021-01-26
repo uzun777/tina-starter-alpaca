@@ -3,6 +3,8 @@ title: Hvordan finne morsmål for språkøvelse?
 path: /nb/finne-morsmal-sprakovelse
 date: '2018-02-02'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Hvordan finne morsmål for språkøvelse?

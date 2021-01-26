@@ -3,6 +3,8 @@ title: ಫ್ಲ್ಯಾಶ್ಕಾರ್ಡ್ಗಳು - ವಿದೇಶಿ 
 path: /kn/phlyaskardgalu
 date: '2018-06-12'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 ವಿದೇಶಿ ಭಾಷೆಯನ್ನು ಕಲಿಯಲು ಫ್ಲ್ಯಾಶ್ಕಾರ್ಡ್ಗಳು ಸ್ವಯಂ-ಅಧ್ಯಯನದ ಸರಳ ಮತ್ತು ಸಾಮಾನ್ಯ ವಿಧಾನವಾಗಿದೆ. ಒಂದು ಕಡೆ ಕಠಿಣ ಪದವನ್ನು ಹೊಂದಿದೆ, ಮತ್ತು ಇನ್ನೊಂದು ಕಡೆ ಅದರ ಅರ್ಥ ಅಥವಾ ಅನುವಾದವನ್ನು ಹೊಂದಿದೆ.

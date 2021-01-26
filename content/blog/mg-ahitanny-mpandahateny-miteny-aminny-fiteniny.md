@@ -3,6 +3,8 @@ title: Ahoana no ahitan'ny mpandahateny miteny amin'ny fiteniny?
 path: /mg/ahitanny-mpandahateny-miteny-aminny-fiteniny
 date: '2018-02-01'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Ahoana no ahitan'ny mpandahateny miteny amin'ny fiteniny?

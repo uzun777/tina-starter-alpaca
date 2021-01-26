@@ -3,6 +3,8 @@ title: Cum de a învăța limba engleză rapid?
 path: /ro/invata-limba-engleza-rapid
 date: '2018-02-06'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Cum de a învăța limba engleză rapid?

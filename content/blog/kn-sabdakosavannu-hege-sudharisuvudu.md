@@ -3,6 +3,8 @@ title: ಶಬ್ದಕೋಶವನ್ನು ಹೇಗೆ ಸುಧಾರಿಸ�
 path: /kn/sabdakosavannu-hege-sudharisuvudu
 date: '2018-06-12'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## ಶಬ್ದಕೋಶವನ್ನು ಹೇಗೆ ಸುಧಾರಿಸುವುದು?
 ಶಬ್ದಕೋಶವನ್ನು ಹೇಗೆ ಸುಧಾರಿಸುವುದು?

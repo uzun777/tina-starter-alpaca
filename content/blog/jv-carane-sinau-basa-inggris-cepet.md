@@ -3,6 +3,8 @@ title: Carane sinau basa Inggris cepet?
 path: /jv/carane-sinau-basa-inggris-cepet
 date: '2018-02-06'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Carane sinau basa Inggris cepet?

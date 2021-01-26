@@ -3,6 +3,8 @@ title: Carane nambah kosakata? Cara paling apik kanggo ngapalake tembung anyar
 path: /jv/carane-nambah-kosakata
 date: '2018-06-12'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Carane nambah kosakata?
 Carane nambah kosakata?

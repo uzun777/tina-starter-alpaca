@@ -3,6 +3,8 @@ title: भाषा अभ्यासकांना मूळ भाषिक 
 path: /mr/bhasa-abhyasakanna-bhasika-kase-sodhave
 date: '2018-02-02'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 भाषा अभ्यासकांना मूळ भाषिक कसे शोधावे?

@@ -3,6 +3,8 @@ title: Hur hittar man modersmål för språkkunskaper?
 path: /sv/hittar-man-modersmal-for-sprakkunskaper
 date: '2018-02-02'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Hur hittar man modersmål för språkkunskaper?

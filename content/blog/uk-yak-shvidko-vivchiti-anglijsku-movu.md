@@ -3,6 +3,8 @@ title: Як швидко вивчити англійську мову?
 path: /uk/yak-shvidko-vivchiti-anglijsku-movu
 date: '2018-02-07'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Як швидко вивчити англійську мову?

@@ -3,6 +3,8 @@ title: Hoe snel Engels leren?
 path: /nl/hoe-snel-engels-leren
 date: '2018-02-05'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Hoe snel Engels leren?

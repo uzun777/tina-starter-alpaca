@@ -3,6 +3,8 @@ title: சொல்லகராதி மேம்படுத்துவது
 path: /ta/collakarati-mempatuttuvatu-eppati
 date: '2018-06-26'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## சொல்லகராதி மேம்படுத்துவது எப்படி?
 சொல்லகராதி மேம்படுத்துவது எப்படி?

@@ -3,6 +3,8 @@ title: Ako zlepšiť slovnú zásobu? Najlepšie spôsoby na zapamätanie si nov
 path: /sk/ako-zlepsit-slovnu-zasobu
 date: '2018-06-22'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Ako zlepšiť slovnú zásobu?
 Ako zlepšiť slovnú zásobu?

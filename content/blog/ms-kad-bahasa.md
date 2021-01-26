@@ -3,6 +3,8 @@ title: Kad bahasa untuk belajar bahasa asing
 path: /ms/kad-bahasa
 date: '2018-06-14'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Kad bahasa untuk belajar bahasa asing adalah cara belajar sendiri yang paling mudah dan paling biasa. Satu pihak memegang perkataan yang sukar, dan pihak lain mempunyai makna atau terjemahannya.

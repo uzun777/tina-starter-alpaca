@@ -3,6 +3,8 @@ title: Cartões de idioma para aprender uma língua estrangeira
 path: /pt-pt/cartoes-de-idioma
 date: '2018-06-21'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Os cartões de idioma para aprender uma língua estrangeira são o método mais simples e mais comum de auto-estudo. Um lado contém uma palavra difícil e o outro lado tem o seu significado ou tradução.

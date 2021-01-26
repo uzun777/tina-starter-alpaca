@@ -3,6 +3,8 @@ title: 영어를 빨리 배우는 방법?
 path: /ko/yeong-eoleul-ppalli-baeuneun-bangbeob
 date: '2018-02-06'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 영어를 빨리 배우는 방법?

@@ -3,6 +3,8 @@ title: Språkkort för att lära sig ett främmande språk
 path: /sv/sprakkort
 date: '2018-06-25'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Språkkort för att lära sig ett främmande språk är den enklaste och vanligaste metoden för självstudier. En sida har ett svårt ord, och den andra sidan har sin mening eller översättning.

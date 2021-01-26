@@ -3,6 +3,8 @@ title: Carte di lingua - per l'apprendimento di una lingua straniera
 path: /it/carte-di-lingua
 date: '2018-06-12'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Le carte di lingua per l'apprendimento di una lingua straniera sono il metodo più semplice e più comune di studio autonomo. Una parte ha una parola difficile, e l'altra parte ha il suo significato o la sua traduzione.

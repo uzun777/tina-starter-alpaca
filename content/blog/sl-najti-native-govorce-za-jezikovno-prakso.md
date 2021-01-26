@@ -3,6 +3,8 @@ title: Kako najti native govorce za jezikovno prakso?
 path: /sl/najti-native-govorce-za-jezikovno-prakso
 date: '2018-02-02'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Kako najti native govorce za jezikovno prakso?

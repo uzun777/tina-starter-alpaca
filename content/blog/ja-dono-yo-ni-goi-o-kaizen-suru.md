@@ -3,6 +3,8 @@ title: どのように語彙を改善する？ 新しい言葉を覚える最も
 path: /ja/dono-yo-ni-goi-o-kaizen-suru
 date: '2018-06-12'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## どのように語彙を改善する？
 どのように語彙を改善する？

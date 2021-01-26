@@ -3,6 +3,8 @@ title: Ingliz tilini qanday tez o'rganish mumkin?
 path: /uz/ingliz-tilini-qanday-tez-organish-mumkin
 date: '2018-02-07'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Ingliz tilini qanday tez o'rganish mumkin?

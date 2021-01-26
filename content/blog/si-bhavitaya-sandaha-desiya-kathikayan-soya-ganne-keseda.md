@@ -3,6 +3,8 @@ title: භාෂා භාවිතය සඳහා දේශීය කථික
 path: /si/bhavitaya-sandaha-desiya-kathikayan-soya-ganne-keseda
 date: '2018-02-02'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 භාෂා භාවිතය සඳහා දේශීය කථිකයන් සොයා ගන්නේ කෙසේද?

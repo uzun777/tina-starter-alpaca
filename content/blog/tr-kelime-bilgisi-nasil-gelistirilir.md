@@ -3,6 +3,8 @@ title: Kelime bilgisi nasıl geliştirilir? Yeni kelimeleri ezberlemenin en iyi 
 path: /tr/kelime-bilgisi-nasil-gelistirilir
 date: '2018-06-26'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Kelime bilgisi nasıl geliştirilir?
 Kelime bilgisi nasıl geliştirilir?

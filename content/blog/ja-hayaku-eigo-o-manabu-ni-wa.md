@@ -3,6 +3,8 @@ title: 早く英語を学ぶには？
 path: /ja/hayaku-eigo-o-manabu-ni-wa
 date: '2018-02-06'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 早く英語を学ぶには？

@@ -3,6 +3,8 @@ title: ஆங்கிலம் வேகமாக கற்று எப்ப�
 path: /ta/ankilam-vekamaka-karru-eppati
 date: '2018-02-07'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 ஆங்கிலம் வேகமாக கற்று எப்படி?

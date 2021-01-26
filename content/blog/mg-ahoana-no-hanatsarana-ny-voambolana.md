@@ -3,6 +3,8 @@ title: Ahoana no hanatsarana ny voambolana? Ny fomba tsara indrindra hitadidy ir
 path: /mg/ahoana-no-hanatsarana-ny-voambolana
 date: '2018-06-13'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Ahoana no hanatsarana ny voambolana?
 Ahoana no hanatsarana ny voambolana?

@@ -3,6 +3,8 @@ title: How to improve vocabulary? The best ways to memorize new words
 path: /improve-vocabulary
 date: '2018-05-29'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## How to improve vocabulary?
 How to improve vocabulary?

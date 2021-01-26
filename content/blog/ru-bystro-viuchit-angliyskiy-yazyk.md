@@ -3,6 +3,8 @@ title: Как быстро выучить английский язык?
 path: /ru/bystro-viuchit-angliyskiy-yazyk
 date: '2018-01-25'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Как быстро выучить английский язык?
 Как быстро выучить английский язык?

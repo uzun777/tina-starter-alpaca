@@ -3,6 +3,8 @@ title: انگریزی تیزی سے کیسے سیکھنا ہے؟
 path: /ur/learn-english-fast
 date: '2018-02-07'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 انگریزی تیزی سے کیسے سیکھنا ہے؟

@@ -3,6 +3,8 @@ title: Làm thế nào để cải thiện vốn từ vựng? Cách tốt nhất
 path: /vi/cai-thien-von-tu-vung
 date: '2018-07-02'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Làm thế nào để cải thiện vốn từ vựng?
 Làm thế nào để cải thiện vốn từ vựng?

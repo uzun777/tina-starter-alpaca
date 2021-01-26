@@ -3,6 +3,8 @@ title: Како пронаћи матичне говорнике за језич
 path: /sr/kako-prona-matichne-govornike-za-jezichku-praksu
 date: '2018-02-02'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Како пронаћи матичне говорнике за језичку праксу?

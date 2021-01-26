@@ -3,6 +3,8 @@ title: Cum să găsiți vorbitori nativi pentru practica lingvistică?
 path: /ro/cum-sa-gasiti-vorbitori-nativi-pentru-practica-lingvistica
 date: '2018-02-02'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Cum să găsiți vorbitori nativi pentru practica lingvistică?

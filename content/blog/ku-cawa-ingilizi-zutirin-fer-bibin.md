@@ -3,6 +3,8 @@ title: Çawa Îngilîzî zûtirîn fêr bibin?
 path: /ku/cawa-ingilizi-zutirin-fer-bibin
 date: '2018-02-06'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Çawa Îngilîzî zûtirîn fêr bibin?

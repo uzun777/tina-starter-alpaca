@@ -3,6 +3,8 @@ title: 어휘 개선 방법? 새로운 단어를 암기하는 가장 좋은 방�
 path: /ko/eohwi-gaeseon-bangbeob
 date: '2018-06-13'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## 어휘 개선 방법?
 어휘 개선 방법?

@@ -3,6 +3,8 @@ title: Jazykové karty pre učenie cudzieho jazyka
 path: /sk/jazykove-karty
 date: '2018-06-22'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Jazykové karty na výučbu cudzieho jazyka sú najjednoduchšie a najbežnejšie metódy samoštúdia. Jedna strana má ťažké slovo a druhá strana má svoj význam alebo preklad.

@@ -3,6 +3,8 @@ title: ഭാഷാ പ്രയോഗത്തിനായി പ്രാദ�
 path: /ml/prayeagattinayi-pradesika-spikka-uka-e-ane-ka-etta
 date: '2018-02-02'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 ഭാഷാ പ്രയോഗത്തിനായി പ്രാദേശിക സ്പീക്കറുകൾ എങ്ങനെ കണ്ടെത്താം?

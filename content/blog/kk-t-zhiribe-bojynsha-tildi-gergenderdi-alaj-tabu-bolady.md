@@ -3,6 +3,8 @@ title: Тілдік тәжірибе бойынша тілді меңгерге�
 path: /kk/t-zhiribe-bojynsha-tildi-gergenderdi-alaj-tabu-bolady
 date: '2018-02-01'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Тілдік тәжірибе бойынша тілді меңгергендерді қалай табуға болады?

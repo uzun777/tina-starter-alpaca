@@ -3,6 +3,8 @@ title: වචන මාලාව දියුණු කර ගන්නේ ක�
 path: /si/vacana-malava-diyunu-kara-ganne-keseda
 date: '2018-06-22'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## වචන මාලාව දියුණු කර ගන්නේ කෙසේද?
 වචන මාලාව දියුණු කර ගන්නේ කෙසේද?

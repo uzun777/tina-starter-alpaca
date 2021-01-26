@@ -3,6 +3,8 @@ title: Kertu kanggo sinau basa asing
 path: /jv/kertu-basa-kanggo
 date: '2018-06-12'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Kertu basa kanggo sinau basa asing yaiku cara sinau dhewe sing paling gampang lan paling umum. Siji sisih nduweni tembung angel, lan sisih liyane nduweni arti utawa terjemahan.

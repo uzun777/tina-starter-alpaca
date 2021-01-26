@@ -3,6 +3,8 @@ title: Bagaimana untuk belajar Bahasa Inggeris dengan cepat?
 path: /ms/bagaimana-untuk-belajar-bahasa-inggeris-dengan-cepat
 date: '2018-02-06'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Bagaimana untuk belajar Bahasa Inggeris dengan cepat?

@@ -3,6 +3,8 @@ title: Sidee loo helaa dadka ku hadla afkooda hooyo?
 path: /so/loo-helaa-dadka-ku-hadla-afkooda-hooyo
 date: '2018-02-02'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Sidee loo helaa dadka ku hadla afkooda hooyo?

@@ -3,6 +3,8 @@ title: Kako izboljšati besednjak? Najboljši način za zapomnitev novih besed
 path: /sl/kako-izboljsati-besednjak
 date: '2018-06-22'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Kako izboljšati besednjak?
 Kako izboljšati besednjak?

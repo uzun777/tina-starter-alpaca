@@ -3,6 +3,8 @@ title: How to learn English fast?
 path: /learn-english-fast
 date: '2018-01-24'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 ## How to learn English fast?
 How to learn English fast?

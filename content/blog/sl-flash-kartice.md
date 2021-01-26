@@ -3,6 +3,8 @@ title: Flash kartice - jezikovne kartice za učenje tujih jezikov
 path: /sl/flash-kartice
 date: '2018-06-22'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Flash kartice za učenje tujih jezikov so najpreprostejši in najpogostejši način samostojnega učenja. Ena stran ima težko besedo, druga pa ima svoj pomen ali prevod.

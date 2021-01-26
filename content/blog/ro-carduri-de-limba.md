@@ -3,6 +3,8 @@ title: Cardurile de limbă pentru învățarea unei limbi străine
 path: /ro/carduri-de-limba
 date: '2018-06-22'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Cardurile de limbă pentru învățarea unei limbi străine sunt cea mai simplă și cea mai comună metodă de auto-studiu. O parte are un cuvânt greu, iar cealaltă are semnificația sau traducerea.

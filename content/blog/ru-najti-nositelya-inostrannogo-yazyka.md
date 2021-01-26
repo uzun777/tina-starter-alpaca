@@ -3,6 +3,8 @@ title: Как найти носителя иностранного языка д
 path: /ru/najti-nositelya-inostrannogo-yazyka
 date: '2018-01-30'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Как найти носителя иностранного языка для общения?

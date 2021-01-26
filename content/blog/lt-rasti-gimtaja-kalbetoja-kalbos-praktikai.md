@@ -3,6 +3,8 @@ title: Kaip rasti gimtąją kalbėtoją kalbos praktikai?
 path: /lt/rasti-gimtaja-kalbetoja-kalbos-praktikai
 date: '2018-02-01'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Kaip rasti gimtąją kalbėtoją kalbos praktikai?

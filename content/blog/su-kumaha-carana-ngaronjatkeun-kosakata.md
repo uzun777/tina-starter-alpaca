@@ -3,6 +3,8 @@ title: Kumaha carana ngaronjatkeun kosakata? Cara pangalusna ngapalkeun kecap an
 path: /su/kumaha-carana-ngaronjatkeun-kosakata
 date: '2018-06-22'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Kumaha carana ngaronjatkeun kosakata?
 Kumaha carana ngaronjatkeun kosakata?

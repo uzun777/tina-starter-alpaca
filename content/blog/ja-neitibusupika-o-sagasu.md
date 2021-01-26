@@ -3,6 +3,8 @@ title: 語学練習のネイティブスピーカーを探すには？
 path: /ja/neitibusupika-o-sagasu
 date: '2018-02-01'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 語学練習のネイティブスピーカーを探すには？

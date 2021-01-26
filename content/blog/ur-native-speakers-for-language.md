@@ -3,6 +3,8 @@ title: زبان بولنے والے زبان کے مشق کے لئے کس طرح
 path: /ur/native-speakers-for-language
 date: '2018-02-02'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 زبان بولنے والے زبان کے مشق کے لئے کس طرح تلاش کریں؟

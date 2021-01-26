@@ -3,6 +3,8 @@ title: Chet tilni o'rganish uchun til kartalari
 path: /uz/til-kartalari
 date: '2018-07-02'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Xorijiy tilni o'rganish uchun til kartalari o'z-o'zini tadqiq qilishning sodda va keng tarqalgan usuli hisoblanadi. Bir tomon qiyin so'zlarni, boshqa tomon esa ma'nosini yoki tarjimasini oladi.

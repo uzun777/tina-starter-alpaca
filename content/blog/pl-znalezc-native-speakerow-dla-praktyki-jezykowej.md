@@ -3,6 +3,8 @@ title: Jak znaleźć native speakerów dla praktyki językowej?
 path: /pl/znalezc-native-speakerow-dla-praktyki-jezykowej
 date: '2018-02-02'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Jak znaleźć native speakerów dla praktyki językowej?

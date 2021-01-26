@@ -3,6 +3,8 @@ title: د بهرنیو ژبو زده کولو لپاره د ژبې کارتون�
 path: /ps/language-cards
 date: '2018-06-21'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 د بهرنیو ژبو زده کولو لپاره د ژبې کارتونه د ځان مطالعې ساده او معمول طریقه ده. یو اړخ ستونزمن کلمه لري، او بل اړخ یې معنی لري.

@@ -3,6 +3,8 @@ title: Kā atrast dzimto valodu valodas praksē?
 path: /lv/atrast-dzimto-valodu-valodas-prakse
 date: '2018-02-01'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Kā atrast dzimto valodu valodas praksē?

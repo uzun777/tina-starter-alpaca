@@ -3,6 +3,8 @@ title: Til amaliyoti uchun ona tilini qanday topish mumkin?
 path: /uz/amaliyoti-uchun-ona-tilini-qanday-topish-mumkin
 date: '2018-02-02'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Til amaliyoti uchun ona tilini qanday topish mumkin?

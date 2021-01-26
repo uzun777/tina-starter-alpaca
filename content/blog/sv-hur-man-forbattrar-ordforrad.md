@@ -3,6 +3,8 @@ title: Hur man förbättrar ordförråd? De bästa sätten att memorera nya ord
 path: /sv/hur-man-forbattrar-ordforrad
 date: '2018-06-25'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Hur man förbättrar ordförråd?

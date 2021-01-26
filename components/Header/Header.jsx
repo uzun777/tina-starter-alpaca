@@ -5,7 +5,9 @@ export const TopBar = () => {
   return (
     <TopBarStyled>
       <TopBarContainer>
-        <LingoCardLogo width={144} height={31} />
+        <TopBarLink href={"/blog"}>
+          <LingoCardLogo width={144} height={31} />
+        </TopBarLink>
         <TopBarLink href={"https://dev.lingocard.com/"}>Log in</TopBarLink>
       </TopBarContainer>
     </TopBarStyled>
@@ -30,6 +32,7 @@ const TopBarContainer = styled.div`
   max-width: calc(1048px + 40px);
 `
 const TopBarLink = styled.a`
+  cursor: pointer;
   text-decoration: none;
   color: #ffffff;
   font-weight: 500;

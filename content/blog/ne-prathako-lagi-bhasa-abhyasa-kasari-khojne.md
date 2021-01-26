@@ -3,6 +3,8 @@ title: भाषा प्रथाको लागि भाषा अभ्य
 path: /ne/prathako-lagi-bhasa-abhyasa-kasari-khojne
 date: '2018-02-02'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 भाषा प्रथाको लागि भाषा अभ्यास कसरी खोज्ने?

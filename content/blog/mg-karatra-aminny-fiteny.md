@@ -3,6 +3,8 @@ title: Karatra amin'ny fiteny ho an'ny fiteny vahiny
 path: /mg/karatra-aminny-fiteny
 date: '2018-06-13'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Ny karatra amin'ny fiteny fianarana fiteny vahiny dia fomba tsotra sy mahazatra indrindra amin'ny fandalinana ny tena. Ny lafiny iray dia misy teny sarotra, ary ny lafiny iray dia manana dikany na fandikan-teny.

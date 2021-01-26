@@ -3,6 +3,8 @@ title: Шет тілін үйрену үшін тілдік карталар
 path: /kk/jrenu-shin-tildik-kartalar
 date: '2018-06-12'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Шет тілін үйренуге арналған тілдік карталар өзін-өзі зерттеудің қарапайым және кең таралған әдісі болып табылады. Бір жағы күрделі сөзді, ал екінші жағында мағынасы немесе аудармасы бар.

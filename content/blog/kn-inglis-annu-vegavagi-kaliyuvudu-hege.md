@@ -3,6 +3,8 @@ title: ಇಂಗ್ಲಿಷ್ ಅನ್ನು ವೇಗವಾಗಿ ಕಲಿ�
 path: /kn/inglis-annu-vegavagi-kaliyuvudu-hege
 date: '2018-02-06'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 ಇಂಗ್ಲಿಷ್ ಅನ್ನು ವೇಗವಾಗಿ ಕಲಿಯುವುದು ಹೇಗೆ?

@@ -3,6 +3,8 @@ title: Bawo ni a ṣe le kọ ẹkọ Gẹẹsi ni kiakia?
 path: /yor/bawo-ni-e-le-ko-eko-geesi-ni-kiakia
 date: '2018-02-07'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Bawo ni a ṣe le kọ ẹkọ Gẹẹsi ni kiakia?

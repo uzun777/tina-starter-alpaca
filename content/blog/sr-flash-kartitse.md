@@ -3,6 +3,8 @@ title: Фласхцардс - језичке картице за учење ст
 path: /sr/flash-kartitse
 date: '2018-06-22'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Фласхцардс за учење страног језика су најједноставнији и најчешћи начин самосталног учења. Једна страна има тешку реч, а друга страна има значење или превод.

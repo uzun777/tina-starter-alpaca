@@ -3,6 +3,8 @@ title: Come trovare madrelingua per la pratica della lingua?
 path: /it/trovare-madrelingua-per-la-pratica-della-lingua
 date: '2018-01-25'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Come trovare madrelingua per la pratica della lingua?

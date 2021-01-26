@@ -3,6 +3,8 @@ title: Kartu Basa keur diajar basa asing
 path: /su/kartu-basa
 date: '2018-06-25'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Kartu Basa keur diajar basa asing anu metoda paling basajan jeung paling umum tina timer ulikan. Hiji sisi nahan hiji kecap hésé, jeung sisi sejen miboga harti na atawa tarjamahan.

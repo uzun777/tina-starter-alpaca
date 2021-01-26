@@ -3,6 +3,8 @@ title: فلیش کارڈ - غیر ملکی زبان سیکھنے کے لئے ز�
 path: /ur/flashcards
 date: '2018-07-02'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 غیر ملکی زبان سیکھنے کے لئے فلیش کارڈز خود مطالعہ کا سب سے آسان اور عام طریقہ ہے. ایک طرف ایک مشکل لفظ رکھتا ہے، اور دوسری طرف اس کا مطلب یا ترجمہ ہے.

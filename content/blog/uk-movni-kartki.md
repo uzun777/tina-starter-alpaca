@@ -3,6 +3,8 @@ title: Мовні картки для вивчення іноземної мов
 path: /uk/movni-kartki
 date: '2018-07-02'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Мовні картки для вивчення іноземної мови є найпростішим і найпоширенішим методом самонавчання. Одна сторона має важке слово, а інша сторона має свій сенс або переклад.

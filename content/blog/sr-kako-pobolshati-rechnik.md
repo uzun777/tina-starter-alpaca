@@ -3,6 +3,8 @@ title: Како побољшати речник? Најбољи начин за 
 path: /sr/kako-pobolshati-rechnik
 date: '2018-06-22'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Како побољшати речник?
 Како побољшати речник?

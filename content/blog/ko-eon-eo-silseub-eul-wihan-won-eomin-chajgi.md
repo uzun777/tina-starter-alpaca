@@ -3,6 +3,8 @@ title: 언어 실습을 위해 원어민을 찾는 방법?
 path: /ko/eon-eo-silseub-eul-wihan-won-eomin-chajgi
 date: '2018-02-02'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 언어 실습을 위해 원어민을 찾는 방법?

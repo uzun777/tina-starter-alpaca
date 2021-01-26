@@ -3,6 +3,8 @@ title: ڪتب آڻڻ بهتر بڻائي نون لفظن کي ياد ڪرڻ جو
 path: /snd/improve-vocabulary
 date: '2018-06-22'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## ڪتب آڻڻ بهتر بڻائي
 ڪتب آڻڻ بهتر بڻائي

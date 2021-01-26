@@ -3,6 +3,8 @@ title: Si të gjeni folës amtare për praktikë gjuhësore?
 path: /sq/gjeni-foles-amtare
 date: '2018-01-27'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Si të gjeni folës amtare për praktikë gjuhësore?

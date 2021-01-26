@@ -3,6 +3,8 @@ title: Kumaha carana manggihan speaker pituin pikeun prakték basa?
 path: /su/kumaha-carana-manggihan-speaker-pituin-pikeun-praktek-basa
 date: '2018-02-02'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Kumaha carana manggihan speaker pituin pikeun prakték basa?

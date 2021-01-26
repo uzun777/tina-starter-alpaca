@@ -3,6 +3,8 @@ title: So'z so'zini qanday takomillashtirish kerak? Yangi so'zlarni eslab qolish
 path: /uz/soz-sozini-qanday-takomillashtirish-kerak
 date: '2018-07-02'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## So'z so'zini qanday takomillashtirish kerak?
 So'z so'zini qanday takomillashtirish kerak?

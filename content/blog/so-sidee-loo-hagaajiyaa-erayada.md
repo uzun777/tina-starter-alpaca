@@ -3,6 +3,8 @@ title: Sidee loo hagaajiyaa erayada? Siyaabaha ugu wanaagsan ee lagu xasuusto er
 path: /so/sidee-loo-hagaajiyaa-erayada
 date: '2018-06-22'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Sidee loo hagaajiyaa erayada?

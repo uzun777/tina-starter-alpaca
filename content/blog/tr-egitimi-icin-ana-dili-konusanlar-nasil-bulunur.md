@@ -3,6 +3,8 @@ title: Dil eğitimi için ana dili konuşanlar nasıl bulunur?
 path: /tr/egitimi-icin-ana-dili-konusanlar-nasil-bulunur
 date: '2018-02-02'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Dil eğitimi için ana dili konuşanlar nasıl bulunur?

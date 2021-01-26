@@ -3,6 +3,8 @@ title: 如何快速学习英语？
 path: /zh-hans/ruhe-kuaisu-xuexi-yingyu
 date: '2018-02-05'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 如何快速学习英语？

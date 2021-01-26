@@ -3,6 +3,8 @@ title: Jak szybko nauczyć się angielskiego?
 path: /pl/jak-szybko-nauczyc-sie-angielskiego
 date: '2018-02-06'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Jak szybko nauczyć się angielskiego?

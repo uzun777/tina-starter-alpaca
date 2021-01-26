@@ -3,6 +3,8 @@ title: Как расширить словарный запас? Лучшие с�
 path: /ru/kak-rashirit-slovarniy-zapas
 date: '2018-05-29'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Как расширить словарный запас?
 Как расширить словарный запас?

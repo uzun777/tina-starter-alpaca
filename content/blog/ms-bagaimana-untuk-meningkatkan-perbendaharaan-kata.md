@@ -3,6 +3,8 @@ title: Bagaimana untuk meningkatkan perbendaharaan kata? Cara terbaik untuk meng
 path: /ms/bagaimana-untuk-meningkatkan-perbendaharaan-kata
 date: '2018-06-14'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Bagaimana untuk meningkatkan perbendaharaan kata?
 Bagaimana untuk meningkatkan perbendaharaan kata?

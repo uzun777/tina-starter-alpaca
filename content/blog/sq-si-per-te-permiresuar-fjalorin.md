@@ -3,6 +3,8 @@ title: Si për të përmirësuar fjalorin? Mënyrat më të mira për të mësua
 path: /sq/si-per-te-permiresuar-fjalorin
 date: '2018-05-29'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Si për të përmirësuar fjalorin?

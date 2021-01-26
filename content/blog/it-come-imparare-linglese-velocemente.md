@@ -3,6 +3,8 @@ title: Come imparare l'inglese velocemente?
 path: /it/come-imparare-linglese-velocemente
 date: '2018-02-06'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Come imparare l'inglese velocemente?

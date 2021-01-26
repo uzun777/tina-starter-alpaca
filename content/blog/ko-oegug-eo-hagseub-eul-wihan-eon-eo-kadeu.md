@@ -3,6 +3,8 @@ title: 외국어 학습을위한 언어 카드
 path: /ko/oegug-eo-hagseub-eul-wihan-eon-eo-kadeu
 date: '2018-06-13'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 외국어를 배우기위한 언어 카드는 가장 간단하고 자주 사용되는 자습 방법입니다. 한 쪽은 어려운 말을, 다른 쪽은 그 뜻이나 번역이 있습니다.

@@ -3,6 +3,8 @@ title: పదజాలం మెరుగు ఎలా? కొత్త పద�
 path: /te/padajalam-merugu-ela
 date: '2018-06-26'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## పదజాలం మెరుగు ఎలా?
 పదజాలం మెరుగు ఎలా?

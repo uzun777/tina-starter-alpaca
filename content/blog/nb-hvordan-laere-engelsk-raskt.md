@@ -3,6 +3,8 @@ title: Hvordan lære engelsk raskt?
 path: /nb/hvordan-laere-engelsk-raskt
 date: '2018-02-06'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Hvordan lære engelsk raskt?

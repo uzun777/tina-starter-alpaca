@@ -3,6 +3,8 @@ title: ਅੰਗਰੇਜ਼ੀ ਨੂੰ ਕਿਵੇਂ ਤੇਜ਼ ਹੋਣ
 path: /pa/agarezi-nu-kivem-teza-hona-hai
 date: '2018-02-06'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 ਅੰਗਰੇਜ਼ੀ ਨੂੰ ਕਿਵੇਂ ਤੇਜ਼ ਹੋਣਾ ਹੈ?

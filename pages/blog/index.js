@@ -13,9 +13,9 @@ const Blog = (props) => {
   return (
     <Layout searchText="Search blog posts" showDocsSearcher searchIndex="tina-starter-alpaca-Blogs" theme={styleData}>
       <Head title="Blog" />
-      <h1>Blog</h1>
+      <Title>Blog</Title>
       <Container>
-        {props.posts.map((post) => {
+        {props.posts.slice(0, 40).map((post) => {
           return <BlogCard key={post.fileName} post={post} />
         })}
       </Container>
@@ -60,6 +60,32 @@ export const getStaticProps = async function ({ preview, previewData }) {
 export default Blog
 
 const Container = styled.div`
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: 518px 518px;
+  grid-gap: 60px 109px;
+  justify-content: center;
+
+  @media screen and (max-width: 1200px) {
+    grid-template-columns: minmax(200px, 518px);
+    grid-row-gap: 40px;
+    margin: 0 5%;
+  }
+`
+
+const Title = styled.h1`
+  font-family: Roboto;
+  text-align: center;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 42px;
+  padding-bottom: 41px;
+  padding-top: 30px;
+  margin: 0;
+  color: #707070 !important;
+
+  @media screen and (max-width: 1200px) {
+    padding-bottom: 20px;
+    padding-top: 15px;
+  }
 `

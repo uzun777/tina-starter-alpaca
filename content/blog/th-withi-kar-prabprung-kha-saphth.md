@@ -3,6 +3,8 @@ title: วิธีการปรับปรุงคำศัพท์? ว�
 path: /th/withi-kar-prabprung-kha-saphth
 date: '2018-06-26'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 วิธีการปรับปรุงคำศัพท์?

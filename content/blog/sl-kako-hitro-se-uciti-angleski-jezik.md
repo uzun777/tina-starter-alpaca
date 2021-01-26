@@ -3,6 +3,8 @@ title: Kako hitro se učiti angleški jezik?
 path: /sl/kako-hitro-se-uciti-angleski-jezik
 date: '2018-02-07'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Kako hitro se učiti angleški jezik?

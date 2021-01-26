@@ -3,6 +3,8 @@ title: Як поліпшити словниковий запас? Найкращ
 path: /uk/yak-polipshiti-slovnikovij-zapas
 date: '2018-07-02'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Як поліпшити словниковий запас?
 

@@ -3,6 +3,8 @@ title: フラッシュカード - 外国語を学ぶための言語カード
 path: /ja/furasshukado
 date: '2018-06-12'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 外国語を学ぶためのフラッシュカードは、最も簡単で最も一般的な自習方法です。一方の側は難しい言葉を、他方の側はその意味や翻訳を持っています。

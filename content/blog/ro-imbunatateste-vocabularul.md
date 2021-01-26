@@ -3,6 +3,8 @@ title: Cum se îmbunătățește vocabularul? Cele mai bune căi de memorare a c
 path: /ro/imbunatateste-vocabularul
 date: '2018-06-22'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Cum se îmbunătățește vocabularul?
 Cum se îmbunătățește vocabularul?

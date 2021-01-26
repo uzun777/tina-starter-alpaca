@@ -3,6 +3,8 @@ title: ඉංග්රීසි භාෂාව ඉගෙන ගන්නේ ක
 path: /si/imgrisi-bhasava-igena-ganne-keseda
 date: '2018-02-06'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 ඉංග්රීසි භාෂාව ඉගෙන ගන්නේ කෙසේද?

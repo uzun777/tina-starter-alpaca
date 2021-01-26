@@ -3,6 +3,8 @@ title: Kaip pagerinti žodyną? Geriausi būdai įsiminti naujus žodžius
 path: /lt/kaip-pagerinti-zodyna
 date: '2018-06-13'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Kaip pagerinti žodyną?
 Kaip pagerinti žodyną?

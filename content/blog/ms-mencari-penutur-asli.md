@@ -3,6 +3,8 @@ title: Bagaimana untuk mencari penutur asli untuk amalan bahasa?
 path: /ms/mencari-penutur-asli
 date: '2018-01-25'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Bagaimana untuk mencari penutur asli untuk amalan bahasa?

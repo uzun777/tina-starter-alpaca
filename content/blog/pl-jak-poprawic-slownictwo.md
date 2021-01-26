@@ -3,6 +3,8 @@ title: Jak poprawić słownictwo? Najlepsze sposoby na zapamiętanie nowych sł�
 path: /pl/jak-poprawic-slownictwo
 date: '2018-06-21'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Jak poprawić słownictwo?
 Jak poprawić słownictwo?

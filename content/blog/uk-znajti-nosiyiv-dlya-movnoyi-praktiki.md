@@ -3,6 +3,8 @@ title: Як знайти носіїв для мовної практики?
 path: /uk/znajti-nosiyiv-dlya-movnoyi-praktiki
 date: '2018-02-02'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Як знайти носіїв для мовної практики?

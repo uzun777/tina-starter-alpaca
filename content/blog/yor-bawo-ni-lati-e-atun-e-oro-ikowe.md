@@ -3,6 +3,8 @@ title: Bawo ni lati ṣe atunṣe ọrọ ikowe? Awọn ọna ti o dara julọ l
 path: /yor/bawo-ni-lati-e-atun-e-oro-ikowe
 date: '2018-07-02'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Bawo ni lati ṣe atunṣe ọrọ ikowe?
 Bawo ni lati ṣe atunṣe ọrọ ikowe?

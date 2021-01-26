@@ -3,6 +3,8 @@ title: Kā uzlabot vārdnīcu? Labākie veidi, kā iegaumēt jaunus vārdus
 path: /lv/ka-uzlabot-vardnicu
 date: '2018-06-13'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Kā uzlabot vārdnīcu?
 Kā uzlabot vārdnīcu?

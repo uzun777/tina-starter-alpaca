@@ -3,6 +3,8 @@ title: د لغتونو د ښه کولو څرنګوالي؟ د نوو کلمات�
 path: /ps/improve-vocabulary
 date: '2018-06-21'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## د لغتونو د ښه کولو څرنګوالي؟
 د لغتونو د ښه کولو څرنګوالي؟

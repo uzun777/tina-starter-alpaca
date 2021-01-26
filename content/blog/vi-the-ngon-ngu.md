@@ -3,6 +3,8 @@ title: Thẻ ngôn ngữ để học ngoại ngữ
 path: /vi/the-ngon-ngu
 date: '2018-07-02'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Thẻ ngôn ngữ để học ngoại ngữ là phương pháp tự học đơn giản và phổ biến nhất. Một bên giữ một từ khó, và phía bên kia có ý nghĩa hay bản dịch của nó.

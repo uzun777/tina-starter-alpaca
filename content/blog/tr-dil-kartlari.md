@@ -3,6 +3,8 @@ title: Yabancı dil öğrenmek için dil kartları
 path: /tr/dil-kartlari
 date: '2018-06-26'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Yabancı bir dil öğrenmek için dil kartları, en basit ve en yaygın kendi kendine çalışma yöntemidir. Bir tarafın zor bir kelimesi vardır ve diğer tarafın anlamı ya da çevirisi vardır.

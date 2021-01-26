@@ -3,6 +3,8 @@ title: Bawo ni lati wa awọn agbọrọsọ abinibi fun iṣẹ ede?
 path: /yor/wa-awon-agboroso-abinibi-fun-e-ede
 date: '2018-02-02'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Bawo ni lati wa awọn agbọrọsọ abinibi fun iṣẹ ede?

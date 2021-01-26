@@ -3,6 +3,8 @@ title: 如何提高词汇量？ 记住新单词的最佳方式
 path: /zh-hans/ruhe-tigao-cihui-liang
 date: '2018-06-01'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## 如何提高词汇量？
 如何提高词汇量？

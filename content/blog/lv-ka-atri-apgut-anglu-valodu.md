@@ -3,6 +3,8 @@ title: Kā ātri apgūt angļu valodu?
 path: /lv/ka-atri-apgut-anglu-valodu
 date: '2018-02-06'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Kā ātri apgūt angļu valodu?

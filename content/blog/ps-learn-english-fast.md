@@ -3,6 +3,8 @@ title: انګريزۍ څنګه زده کړه کوله؟
 path: /ps/learn-english-fast
 date: '2018-02-06'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 انګريزۍ څنګه زده کړه کوله؟

@@ -3,6 +3,8 @@ title: วิธีการเรียนรู้ภาษาอังกฤ�
 path: /th/reiyn-ru-p-hasa-xangkvs-di-xyang-rwdrew
 date: '2018-02-07'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 วิธีการเรียนรู้ภาษาอังกฤษได้อย่างรวดเร็ว?

@@ -3,6 +3,8 @@ title: Kalbos kortos užsienio kalbos mokymuisi
 path: /lt/kalbos-kortos
 date: '2018-06-13'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Kalbos kortos užsienio kalbos mokymuisi. Geriausias būdas įsiminti žodžius

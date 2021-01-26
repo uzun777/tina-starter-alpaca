@@ -3,6 +3,8 @@ title: ڪئين ٻولين جي ٻولي ڳالهائڻ جي ٻولي ڪيئن �
 path: /snd/native-speakers
 date: '2018-02-02'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 ڪئين ٻولين جي ٻولي ڳالهائڻ جي ٻولي ڪيئن حاصل ڪجي؟

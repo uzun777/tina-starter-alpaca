@@ -3,6 +3,8 @@ title: 抽认卡 - 用于学习外语的语言卡
 path: /zh-hans/chou-ren-ka
 date: '2018-06-01'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 学习外语的抽认卡是最简单和最常见的自学方法。一方有一个困难的词，另一方有其意义或翻译。

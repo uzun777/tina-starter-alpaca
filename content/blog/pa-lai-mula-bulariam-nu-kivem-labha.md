@@ -3,6 +3,8 @@ title: ਭਾਸ਼ਾ ਅਭਿਆਸ ਲਈ ਮੂਲ ਬੁਲਾਰਿਆਂ
 path: /pa/lai-mula-bulariam-nu-kivem-labha
 date: '2018-02-02'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 ਭਾਸ਼ਾ ਅਭਿਆਸ ਲਈ ਮੂਲ ਬੁਲਾਰਿਆਂ ਨੂੰ ਕਿਵੇਂ ਲੱਭਣਾ ਹੈ?

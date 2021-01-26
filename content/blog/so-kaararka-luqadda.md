@@ -3,6 +3,8 @@ title: Kaararka luqadda ee barashada luuqad shisheeye
 path: /so/kaararka-luqadda
 date: '2018-06-22'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Kaararka luqadda ee barashada luuqad shisheeye waa habka ugu fudud iyo kan ugu badan ee is-barashada. Hal dhinac wuxuu leeyahay erey adag, dhinac kalena wuxuu leeyahay macnaha ama tarjumadiisa.

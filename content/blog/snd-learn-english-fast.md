@@ -3,6 +3,8 @@ title: انگريزي ڪيئن سکڻ سکو؟
 path: /snd/learn-english-fast
 date: '2018-02-06'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 انگريزي ڪيئن سکڻ سکو؟

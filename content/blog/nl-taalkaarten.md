@@ -3,6 +3,8 @@ title: Taalkaarten voor het leren van een vreemde taal. De beste methode om woor
 path: /nl/taalkaarten
 date: '2018-06-02'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Taalkaarten voor het leren van een vreemde taal zijn de eenvoudigste en meest gebruikte methode van zelfstudie. De ene kant heeft een moeilijk woord en de andere kant heeft zijn betekenis of vertaling.

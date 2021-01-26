@@ -3,6 +3,8 @@ title: 如何找到语言练习的母语人士？
 path: /zh-hans/zhaodao-muyu-de-ren
 date: '2018-01-30'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 如何找到语言练习的母语人士？

@@ -3,6 +3,8 @@ title: Çawa ku axaftvanên xweyî yên ji bo pratîka ziman re bibînin?
 path: /ku/ji-bo-axaftvanen-zimen-bibinin-ji-bo-pratikaya-ziman
 date: '2018-02-01'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Çawa ku axaftvanên xweyî yên ji bo pratîka ziman re bibînin?

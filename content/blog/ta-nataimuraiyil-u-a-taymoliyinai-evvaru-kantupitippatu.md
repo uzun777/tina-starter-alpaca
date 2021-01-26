@@ -3,6 +3,8 @@ title: மொழி நடைமுறையில் உள்ள தாய்�
 path: /ta/nataimuraiyil-u-a-taymoliyinai-evvaru-kantupitippatu
 date: '2018-02-02'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 மொழி நடைமுறையில் உள்ள தாய்மொழியினை எவ்வாறு கண்டுபிடிப்பது?

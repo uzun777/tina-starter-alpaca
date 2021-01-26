@@ -3,6 +3,8 @@ title: शब्दसंग्रह सुधारण्यासाठी �
 path: /mr/sabdasangraha-sudharanyasathi-kase
 date: '2018-06-14'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## शब्दसंग्रह सुधारण्यासाठी कसे?
 शब्दसंग्रह सुधारण्यासाठी कसे?

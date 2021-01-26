@@ -3,6 +3,8 @@ title: Fiszki - karty językowe do nauki języka obcego
 path: /pl/fiszki
 date: '2018-06-21'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Fiszki do nauki języka obcego są najprostszą i najczęściej stosowaną metodą samokształcenia. Jedna strona zawiera trudne słowo, a druga strona ma znaczenie lub tłumaczenie.

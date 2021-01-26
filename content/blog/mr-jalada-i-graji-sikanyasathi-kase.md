@@ -3,6 +3,8 @@ title: जलद इंग्रजी शिकण्यासाठी कस�
 path: /mr/jalada-i-graji-sikanyasathi-kase
 date: '2018-02-06'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 जलद इंग्रजी शिकण्यासाठी कसे?

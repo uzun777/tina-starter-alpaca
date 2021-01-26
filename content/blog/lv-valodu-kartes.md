@@ -3,6 +3,8 @@ title: Valodu kartes svešvalodas apguvei
 path: /lv/valodu-kartes
 date: '2018-06-13'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Valodu kartes svešvalodas apguvei. Labākais metode, kā iegaumēt vārdus

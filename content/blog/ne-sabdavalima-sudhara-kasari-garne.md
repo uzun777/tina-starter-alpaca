@@ -3,6 +3,8 @@ title: शब्दावलीमा सुधार कसरी गर्न�
 path: /ne/sabdavalima-sudhara-kasari-garne
 date: '2018-06-15'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## शब्दावलीमा सुधार कसरी गर्ने?
 शब्दावलीमा सुधार कसरी गर्ने?

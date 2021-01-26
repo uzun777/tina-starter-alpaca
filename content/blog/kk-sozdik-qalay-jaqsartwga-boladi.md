@@ -3,6 +3,8 @@ title: Сөздік қалай жақсартуға болады? Жаңа сө�
 path: /kk/sozdik-qalay-jaqsartwga-boladi
 date: '2018-06-12'
 type: post
+previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
+author: 'Andrew Kuzmin'
 ---
 ## Сөздік қалай жақсартуға болады?
 Сөздік қалай жақсартуға болады?

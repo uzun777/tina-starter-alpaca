@@ -3,6 +3,8 @@ title: ಭಾಷೆ ಅಭ್ಯಾಸಕ್ಕಾಗಿ ಸ್ಥಳೀಯ ಭ�
 path: /kn/abhyasakkagi-stha-iya-bha-ikaru-hege-pa-eyuvudu
 date: '2018-02-01'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 ಭಾಷೆ ಅಭ್ಯಾಸಕ್ಕಾಗಿ ಸ್ಥಳೀಯ ಭಾಷಿಕರು ಹೇಗೆ ಪಡೆಯುವುದು?

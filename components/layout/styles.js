@@ -7,24 +7,15 @@ export const LayoutStyled = styled.main`
   margin: 0 auto;
   color: ${({ theme }) => theme.colors.text};
   background-color: ${({ theme }) => theme.colors.background};
-
-  h1 {
-    font-size: 40px;
-    margin: 0;
-    margin-bottom: 16px;
-    color: #333333;
-    line-height: 56px;
-    font-weight: 700;
-  }
 `
 
-export const LayoutBodyStyled = styled.main`
-  min-height: calc(100vh - 250px);
-  max-width: calc(1048px + 40px);
+export const LayoutBodyStyled = styled.div`
+  min-height: calc(100vh - 64px);
+  max-width: 1400px;
+  display: flex;
+  background-color: #ffffff;
+  flex-flow: column;
   margin: 0 auto;
-  padding: 0 20px;
-  padding-bottom: 1px;
-  padding-top: 6px;
   ${({ splitView }) =>
     splitView &&
     css`

@@ -3,6 +3,8 @@ title: Ako nájsť rodených hovorcov pre jazykovú prax?
 path: /sk/najst-rodenych-hovorcov-pre-jazykovu-prax
 date: '2018-02-02'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Ako nájsť rodených hovorcov pre jazykovú prax?

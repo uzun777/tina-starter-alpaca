@@ -3,6 +3,8 @@ title: ఇంగ్లీష్ శీఘ్ర నేర్చుకోవడ�
 path: /te/inglis-sighra-nercukovadam-ela
 date: '2018-02-07'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 ఇంగ్లీష్ శీఘ్ర నేర్చుకోవడం ఎలా?

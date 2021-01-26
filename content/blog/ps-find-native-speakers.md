@@ -3,6 +3,8 @@ title: څنګه د ژبې تمرین لپاره د اصلي ویناوو پید�
 path: /ps/find-native-speakers
 date: '2018-02-02'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 څنګه د ژبې تمرین لپاره د اصلي ویناوو پیدا کول؟

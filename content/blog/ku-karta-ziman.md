@@ -3,6 +3,8 @@ title: Karta ziman ji bo fêrbûna zimanek biyanî
 path: /ku/karta-ziman
 date: '2018-06-13'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Karta ziman ji bo fêrbûna zimanek biyanî. Rêbazê herî baş ya peyvên bîranîn

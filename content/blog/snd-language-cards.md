@@ -3,6 +3,8 @@ title: ٻوليء جا ڪارڊ هڪ ڌارين ٻولي سکڻ لاء
 path: /snd/language-cards
 date: '2018-06-22'
 type: post
+previewSrc: /images/Flashcards-language-cards-for-learning-a-foreign-language.-The-best-method-of-memorizing-words.jpg
+author: 'Andrew Kuzmin'
 ---
 
 ٻوليء جا ڪارڊ هڪ غير ملڪي ٻولي سکڻ لاء خود مطالعي جو آسان ۽ تمام عام طريقو آهي. هڪ پاسي هڪ ڏکئي لفظ آهي، ۽ ٻئي پاسي ان جي معني يا ترجمو آهي.

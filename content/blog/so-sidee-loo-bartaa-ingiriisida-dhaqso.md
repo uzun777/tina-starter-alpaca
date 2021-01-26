@@ -3,6 +3,8 @@ title: Sidee loo bartaa Ingiriisida dhaqso?
 path: /so/sidee-loo-bartaa-ingiriisida-dhaqso
 date: '2018-02-07'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 Sidee loo bartaa Ingiriisida dhaqso?

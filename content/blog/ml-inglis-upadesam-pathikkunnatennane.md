@@ -3,6 +3,8 @@ title: ഇംഗ്ലീഷ് ഉപദേശം പഠിക്കുന്�
 path: /ml/inglis-upadesam-pathikkunnatennane
 date: '2018-02-06'
 type: post
+previewSrc: /images/How-to-learn-English-fast.jpg
+author: 'Andrew Kuzmin'
 ---
 
 ഇംഗ്ലീഷ് ഉപദേശം പഠിക്കുന്നതെങ്ങനെ?

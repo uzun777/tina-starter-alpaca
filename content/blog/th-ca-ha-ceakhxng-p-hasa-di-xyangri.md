@@ -3,6 +3,8 @@ title: จะหาเจ้าของภาษาได้อย่างไ�
 path: /th/ca-ha-ceakhxng-p-hasa-di-xyangri
 date: '2018-02-02'
 type: post
+previewSrc: /images/How-to-find-native-speakers-for-language-practice.jpg
+author: 'Andrew Kuzmin'
 ---
 
 จะหาเจ้าของภาษาได้อย่างไร?
