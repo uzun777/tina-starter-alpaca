@@ -5,6 +5,7 @@ export const LayoutStyled = styled.main`
   font-family: Roboto, system-ui, sans-serif;
   width: 100%;
   margin: 0 auto;
+  padding-bottom: 50px;
   color: ${({ theme }) => theme.colors.text};
   background-color: ${({ theme }) => theme.colors.background};
 `
@@ -13,7 +14,7 @@ export const LayoutBodyStyled = styled.div`
   min-height: calc(100vh - 64px);
   max-width: 1400px;
   display: flex;
-  background-color: #ffffff;
+  background-color: ${({ theme }) => theme.colors.background};
   flex-flow: column;
   margin: 0 auto;
   ${({ splitView }) =>

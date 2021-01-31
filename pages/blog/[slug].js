@@ -6,7 +6,7 @@ import matter from "gray-matter"
 import { useGithubMarkdownForm } from "react-tinacms-github"
 import { getGithubPreviewProps, parseMarkdown } from "next-tinacms-github"
 import { InlineWysiwyg } from "react-tinacms-editor"
-
+import styled from "styled-components"
 import Head from "@components/head"
 import Layout from "@components/layout"
 import Toc from "@components/Toc"
@@ -44,50 +44,51 @@ const BlogPage = (props) => {
 
   const [data, form] = useGithubMarkdownForm(props.file, formOptions)
   usePlugin(form)
-
+  console.log("data ", data)
   return (
     <Layout searchText="Search blog posts" showDocsSearcher searchIndex="tina-starter-alpaca-Blogs">
-      <Head title={`${data.frontmatter.title} | Blog`} />
       <p>
         <Link href="/blog">
           <PrimaryAnchor>Blog</PrimaryAnchor>
         </Link>{" "}
         / {data.frontmatter.title}
       </p>
-      <InlineForm form={form}>
-        <DocWrapper styled={false}>
-          <RichText>
-            <main>
-              <h1>
-                <InlineText name="frontmatter.title" />
-              </h1>
-              {!props.preview && props.Alltocs.length > 0 && <Toc tocItems={props.Alltocs} />}
+      <Container>
+        <Head title={`${data.frontmatter.title} | Blog`} />
+        <InlineForm form={form}>
+          <DocWrapper styled={false}>
+            <RichText>
+              <main>
+                <Title>
+                  <InlineText name="frontmatter.title" />
+                </Title>
+                {!props.preview && props.Alltocs.length > 0 && <Toc tocItems={props.Alltocs} />}
+                <ImageView src={data.frontmatter.previewSrc} />
 
-              <InlineWysiwyg
-                name="markdownBody"
-                format={"markdown"}
-                sticky="62px"
-                imageProps={{
-                  uploadDir: () => "/images/",
-                  parse: (media) => media.id,
-                  previewSrc(src) {
-                    return cms.media.previewSrc(src)
-                  },
-                }}
-              >
-                <div
-                  dangerouslySetInnerHTML={{
-                    __html: data.markdownBody,
+                <InlineWysiwyg
+                  name="markdownBody"
+                  format={"markdown"}
+                  sticky="62px"
+                  imageProps={{
+                    uploadDir: () => "/images/",
+                    parse: (media) => media.id,
+                    previewSrc(src) {
+                      return cms.media.previewSrc(src)
+                    },
                   }}
-                />
-                {/*<MarkdownWrapper source={data.markdownBody} />*/}
-              </InlineWysiwyg>
-            </main>
-          </RichText>
-          <PostFeedback />
-        </DocWrapper>
-        asd
-      </InlineForm>
+                >
+                  <Text
+                    dangerouslySetInnerHTML={{
+                      __html: data.markdownBody,
+                    }}
+                  />
+                  {/*<MarkdownWrapper source={data.markdownBody} />*/}
+                </InlineWysiwyg>
+              </main>
+            </RichText>
+          </DocWrapper>
+        </InlineForm>
+      </Container>
     </Layout>
   )
 }
@@ -162,3 +163,45 @@ export const getStaticPaths = async function () {
 }
 
 export default BlogPage
+
+const Container = styled.div`
+  display: flex;
+  max-width: 1140px;
+  margin: 0 auto;
+  background-color: #ffff;
+  padding: 0 87px 50px;
+
+  @media screen and (max-width: 768px) {
+    padding: 0 40px;
+  }
+`
+
+const Title = styled.h1`
+  font-family: Roboto, serif;
+  text-align: center;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 25px;
+  border-bottom: 1px solid #a4a4a4;
+  padding-top: 35px;
+  padding-bottom: 40px;
+
+  @media screen and (max-width: 768px) {
+    font-size: 20px;
+
+    padding: 20px;
+  }
+`
+const Text = styled.div`
+  font-family: Roboto,serif;
+  font-size: 14px
+  line-height: 25px
+`
+const ImageView = styled.img`
+  padding-bottom: 40px;
+
+  @media screen and (max-width: 768px) {
+    padding-bottom: 20px;
+  }
+`
