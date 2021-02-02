@@ -14,6 +14,7 @@ import { useCMS, usePlugin } from "tinacms"
 import RichText from "@components/rich-text"
 import { createToc, getBlogPosts } from "@utils"
 import useCreateBlogPage from "../../hooks/useCreateBlogPage"
+import MarkdownWrapper from "@components/markdown-wrapper"
 
 const BlogPage = (props) => {
   const cms = useCMS()
@@ -66,12 +67,12 @@ const BlogPage = (props) => {
                     },
                   }}
                 >
-                  <Text
-                    dangerouslySetInnerHTML={{
-                      __html: data.markdownBody,
-                    }}
-                  />
-                  {/*<MarkdownWrapper source={data.markdownBody} />*/}
+                  {/*<Text*/}
+                  {/*  dangerouslySetInnerHTML={{*/}
+                  {/*    __html: data.markdownBody,*/}
+                  {/*  }}*/}
+                  {/*/>*/}
+                  <MarkdownWrapper source={data.markdownBody} />
                 </InlineWysiwyg>
               </main>
             </RichText>
