@@ -6,7 +6,6 @@ type: post
 previewSrc: /images/How-to-improve-vocabulary-The-best-ways-to-memorize-new-words.jpg
 author: 'Andrew Kuzmin'
 ---
-## Как да подобрим речника?
 Как да подобрим речника?
 
 Всеки ученик, който изучава чужд език, задава този въпрос. Има няколко основни начина за подобряване на речника, които ще покрием в тази статия:
