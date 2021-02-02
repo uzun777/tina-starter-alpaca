@@ -1,4 +1,3 @@
-import Link from "next/link"
 import Error from "next/error"
 import { useRouter } from "next/router"
 import { InlineForm, InlineText } from "react-tinacms-inline"
@@ -10,11 +9,8 @@ import styled from "styled-components"
 import Head from "@components/head"
 import Layout from "@components/layout"
 import Toc from "@components/Toc"
-import PostFeedback from "@components/post-feedback"
 import DocWrapper from "@components/doc-wrapper"
-import MarkdownWrapper from "@components/markdown-wrapper"
-import { PrimaryAnchor } from "@components/Anchor"
-import { usePlugin, useCMS } from "tinacms"
+import { useCMS, usePlugin } from "tinacms"
 import RichText from "@components/rich-text"
 import { createToc, getBlogPosts } from "@utils"
 import useCreateBlogPage from "../../hooks/useCreateBlogPage"
@@ -44,15 +40,8 @@ const BlogPage = (props) => {
 
   const [data, form] = useGithubMarkdownForm(props.file, formOptions)
   usePlugin(form)
-  console.log("data ", data)
   return (
     <Layout searchText="Search blog posts" showDocsSearcher searchIndex="tina-starter-alpaca-Blogs">
-      <p>
-        <Link href="/blog">
-          <PrimaryAnchor>Blog</PrimaryAnchor>
-        </Link>{" "}
-        / {data.frontmatter.title}
-      </p>
       <Container>
         <Head title={`${data.frontmatter.title} | Blog`} />
         <InlineForm form={form}>
