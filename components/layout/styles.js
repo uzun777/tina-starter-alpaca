@@ -1,7 +1,6 @@
 import styled, { css } from "styled-components"
 
 export const LayoutStyled = styled.main`
-  margin: 0;
   font-family: Roboto, system-ui, sans-serif;
   width: 100%;
   margin: 0 auto;
@@ -14,7 +13,7 @@ export const LayoutBodyStyled = styled.div`
   min-height: calc(100vh - 64px);
   max-width: 1400px;
   display: flex;
-  background-color: ${({ theme }) => theme.colors.background};
+  background-color: ${({ theme }) => theme.colors};
   flex-flow: column;
   margin: 0 auto;
   ${({ splitView }) =>

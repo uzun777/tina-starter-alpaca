@@ -17,19 +17,22 @@ export const TopBar = () => {
 const TopBarStyled = styled.header`
   background-color: ${({ theme }) => theme.colors.primary};
   height: 50px;
-  padding: 0 24px;
   align-items: center;
   justify-content: center;
-  position: relative;
   display: flex;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  z-index: 3;
 `
 
 const TopBarContainer = styled.div`
+  max-width: 1400px;
+  margin: auto;
   width: 100%;
   align-items: center;
   display: flex;
   justify-content: space-between;
-  max-width: calc(1048px + 40px);
 `
 const TopBarLink = styled.a`
   cursor: pointer;

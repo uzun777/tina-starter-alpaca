@@ -13,11 +13,13 @@ const Blog = (props) => {
   return (
     <Layout searchText="Search blog posts" showDocsSearcher searchIndex="tina-starter-alpaca-Blogs" theme={styleData}>
       <Head title="Blog" />
-      <Title>Blog</Title>
       <Container>
-        {props.posts.slice(0, 40).map((post) => {
-          return <BlogCard key={post.fileName} post={post} />
-        })}
+        <Title>Blog</Title>
+        <PostsBlock>
+          {props.posts.slice(0, 40).map((post) => {
+            return <BlogCard key={post.fileName} post={post} />
+          })}
+        </PostsBlock>
       </Container>
     </Layout>
   )
@@ -60,6 +62,10 @@ export const getStaticProps = async function ({ preview, previewData }) {
 export default Blog
 
 const Container = styled.div`
+  background-color: #ffffff;
+`
+
+const PostsBlock = styled.div`
   display: grid;
   grid-template-columns: 518px 518px;
   grid-gap: 60px 109px;

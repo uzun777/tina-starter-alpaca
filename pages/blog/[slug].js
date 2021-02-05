@@ -40,6 +40,7 @@ const BlogPage = (props) => {
   }
 
   const [data, form] = useGithubMarkdownForm(props.file, formOptions)
+  console.log("data is ", data)
   usePlugin(form)
   return (
     <Layout searchText="Search blog posts" showDocsSearcher searchIndex="tina-starter-alpaca-Blogs">
@@ -159,7 +160,7 @@ const Container = styled.div`
   max-width: 1140px;
   margin: 0 auto;
   background-color: #ffff;
-  padding: 0 87px 50px;
+  padding: 0 57px 50px;
 
   @media screen and (max-width: 768px) {
     padding: 0 40px;

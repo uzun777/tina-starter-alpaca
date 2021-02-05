@@ -81,4 +81,4 @@ Flashcards са достъпни за обучение в два режима:
 
 За да постигнем тези цели, ние разработваме нашия уникален софтуер, който може да се сравни с тъкачен стан за създаване на нови невронни връзки в мозъка - просто трябва да изберете правилния материал и да положите усилия да постигнете най-добрия резултат.
 
-<a href="/bg/kak-da-nauchite-anglijski-brzo">< Previous</a> <a href="/bg/kak-da-podobrim-rechnika">Next ></a>
+<div><a href="/bg/kak-da-nauchite-anglijski-brzo">< Previous</a> <a href="/bg/kak-da-podobrim-rechnika">Next ></a></div>
